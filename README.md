@@ -17,6 +17,7 @@ Wdlcome to the official AltzUI Discord. Feel free to ask for help, but please do
 3. Don't spam every channel with the same question. Just ask your question straight and be patient.
 4. We support English, Simplified Chinese and Traditional Chinese.
 5. Glad We have people from different parts of the world, but actually main author only have poor english.
+6. Don't PM moderator for help
 ```
 
 If you're reporting an issue/bug, please mention the following alongside your issue:
