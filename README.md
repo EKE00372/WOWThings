@@ -22,8 +22,8 @@ Wdlcome to the official AltzUI Discord. Feel free to ask for help, but please do
 If you're reporting an issue/bug, please mention the following alongside your issue:
 
 ```
-* What AltzUI Version are you using
-* describe how to reappear this bug
-* will bug still exists when only both AltzUI and Aurora enable?
-* post lua error log if you have.
+1. make sure you're using newest version AltzUI
+2. describe how to reproduce this bug
+3. will bug still exists when only both AltzUI and Aurora enable?
+4. post lua error log if you have.
 ```
