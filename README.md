@@ -27,3 +27,13 @@ If you're reporting an issue/bug, please mention the following alongside your is
 3. will bug still exists when only both AltzUI and Aurora enable?
 4. post lua error log if you have.
 ```
+
+Common Links:
+
+```
+Github: https://github.com/Paojy/Altz-UI
+Curse: not yet
+WowInterface: https://www.wowinterface.com/downloads/info21263-AltzUIforLegion.html
+Discord: https://discord.gg/RXQqTnT
+NGA: https://bbs.nga.cn/read.php?tid=4729675
+```
