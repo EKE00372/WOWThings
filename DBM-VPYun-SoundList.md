@@ -1,11 +1,11 @@
 # DBM-VP LIST
 
-DBM語音台本
+DBM語音台本，斜體為芷小云從缺部份
 
-### 火車王
+## 火車王
 
-火車王部份芷小云全部從缺
-***
+火車王部份**芷小云全部從缺**
+
 | File name | zhCN (Yike) | enUS (Demo) | zhTW (Yun) |
 |------|------|------|------|
 |Thogar/A1|一轨道快车|lane 1 express|一軌快車|
@@ -46,9 +46,9 @@ DBM語音台本
 |Thogar/E4|四轨道喷火車|lane 4 Deforester|四軌噴火|
 |Thogar/E23|二三轨道喷火車|lane 2 and 3 Deforester|二三軌道噴火|
 |Thogar/F|随机三轨道快车|3 Random Lanes|隨機三軌快車|
-***
-### 倒數計時
-***
+
+## 倒數計時
+
 | File name | zhCN | enUS | zhTW |
 |------|------|------|------|
 |1|一||*全缺*|
@@ -62,11 +62,9 @@ DBM語音台本
 |9|九|||
 |10|十|||
 |11|十一|||
-***
+
 ### 主列表
 
-斜體=從缺
-***
 | File name | zhCN | enUS | zhTW |
 |------|------|------|------|
 |153247|陨石快躲|Meteor run!|*隕石快躲*|
@@ -265,9 +263,9 @@ DBM語音台本
 |mpurple|快到紫色|move to purple|*快去紫色*|
 |myellow|快到黄色|move to yellow|*快去黃色*|
 |newportal|新传送门|new portal|新傳送門|
-|north||||
-|northeast||||
-|northwest||||
+|north|往北|||
+|northeast|往東北|||
+|northwest|往西北|||
 |orbrun|寶珠，快跑|||
 |otherin|||隊友入場(建議重錄)|
 |otherout|||隊友出場|
@@ -283,25 +281,25 @@ DBM語音台本
 |runaway|快躲開|||
 |runin|快回人群||*快回人群*|
 |runout|跑開人群||*跑出人群*|
-|runtoedge|快靠边站||*靠邊站*|
-|safenow|安全安全|||
-|scatter|快分散|||
-|scattersoon|注意分散|||
+|runtoedge|快靠边站||*快靠邊站*|
+|safenow|安全安全||*安全安全*|
+|scatter|快分散||*快分散*|
+|scattersoon|注意分散||*注意分散*|
 |shadowrun|快跑，暗影點你|||
 |shareone|一组分担|group one share|*一組分攤*|
 |sharetwo|二组分担|group two share|*二組分攤*|
 |shieldover|快打，護盾結束|||
-|shockwave|震懾波|||
+|shockwave|震懾波||*震懾波*|
 |silencesoon|准备沉默|silence soon|*準備沉默*|
-|south||||
-|southeast||||
-|southwest||||
+|south|往南||*往南*|
+|southeast|往東南||*往東南*|
+|southwest|往西南||*往西南*|
 |spear|投擲長矛|||
-|specialsoon|準備特別技能|||
+|specialsoon|準備特別技能||*準備特殊技能*|
 |speedup|||首領加速|
 |stackhigh|层数过高|stack high|*層數過高*|
 |stepring|||注意踩圈|
-|stilldanger|危險危險|||
+|stilldanger|危險危險||*危險危險*|
 |stompsoon|準備踐踏|||
 |stompstart|踐踏開始|||
 |stopatk|注意停手|||
@@ -320,14 +318,14 @@ DBM語音台本
 |teleyou|你備傳送||*你被傳送*|
 |thanks|謝謝了||感恩嘍|
 |trannow|注意凝神||*快凝神*|
-|transplague|傳遞碎片||*傳遞碎片*|
+|transplague|傳遞碎片||傳遞碎片|
 |turnaway|快轉身||快轉身|
 |useitem|使用道具|use item|*使用道具*|
 |uu|你的你的||你的你的|
-|watchimpale|注意刺穿|||
-|watchorb|注意寶珠|||
+|watchimpale|注意穿刺||*注意穿刺*|
+|watchorb|注意寶珠||*注意寶珠*|
 |watchstep|注意腳下||注意腳下|
 |watchwave|注意衝擊波||*注意衝擊波*|
-|west|往西||*向西*|
+|west|往西||*往西*|
 |whirlwind|旋风斩|Whirlwind|*旋風斬*|
 |wwsoon|準備旋風||*旋風準備*|
