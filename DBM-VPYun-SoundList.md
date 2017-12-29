@@ -178,25 +178,25 @@ DBM語音台本，斜體為芷小云從缺部份
 |ej9657|熔渣元素出现|Slag Elemental coming|*熔渣元素出現*|
 |ej9659召火者出现|Fire Caller coming|*召火者出現*|
 |end|結束||*結束*|
-|energyhigh|能量過高|||
+|energyhigh|能量過高||*能量過高*|
 |enrage|||激怒|
 |failed|唉呀，討厭||*唉唷，討厭*|
 |farfromline|远离连线|far away from lines|*遠離連線*|
 |fearsoon|准备恐惧|fear incoming|*準備恐懼*|
 |felinfusion|邪能灌注点你||*你中了魔性注入*|
 |findgather|找人靠近|||
-|findmc|注意心控|||
-|findshadow|快進陰?|||
+|findmc|注意心控||*注意心控*|
+|findshadow|快進陰影|||
 |findshelter|快找掩体|find shelter|*快找掩體*|
 |findshield|快找盾牌|find shield|*快找盾牌*|
-|firecircle|注意火圈|||
+|firecircle|注意火圈||*注意火圈*|
 |firerun|快跑，火焰點你|||
-|firewall|火牆火牆火牆火牆|||
+|firewall|火牆火牆火牆火牆||*火牆火牆*|
 |frenzy|狂乱|frenzy||
 |frontcenter|中上中上中上|go front center|*中上中上*|
 |frontleft|左上左上左上|go front left|*左上左上*|
 |frontright|右上右上右上|go front right|*右上右上*|
-|gather|快集合|||
+|gather|快集合||*快集合*|
 |gathershare|集合分担|share the damage|*集合分攤*|
 |getboned|||快拿骨甲|
 |ghostsoon|||準備靈魂|
@@ -212,30 +212,30 @@ DBM語音台本，斜體為芷小云從缺部份
 |helpme|救我||*救救我*|
 |helpme2|救一下嘛||*救救我嘛*|
 |helpsoad|帮忙吸收|help soak|*幫忙吸收*|
-|holdit|快開自保技能|||
+|holdit|快開自保技能||*快開自保*|
 |inktoshark|运送墨汁||*運送墨水*|
-|interruptsoon|打斷準備|||
+|interruptsoon|打斷準備||*準備打斷*|
 |jumpinpit|快跳坑||*快跳快跳*|
 |jumpnow|快跳|jump now|*快跳*|
-|justrun|快跑|||
-|keepjump|保持跳動|||
-|keepmove|保持移動|||
+|justrun|快跑||*快跑*|
+|keepjump|保持跳動||*保持跳動*|
+|keepmove|保持移動||*保持移動*|
 |kick1r|1打断准备|interrupt 1|*一斷準備*|
 |kick2r|2打断准备|interrupt 2|*二斷準備*|
 |kick3r|3打断准备|interrupt 3|*三斷準備*|
 |kick4r|4打断准备|interrupt 4|*四斷準備*|
 |kick5r|5打断准备|interrupt 5|*五斷準備*|
-|kickcast|快打斷|||
+|kickcast|快打斷||*快打斷*|
 |killbigmob|||大怪快打|
 |killmine|||地雷快打|
 |killmob|||小怪快打|
-|killspirit|靈魂快打|||
+|killspirit|靈魂快打||*靈魂快打*|
 |laserrun|||快跑，雷射點你|
 |leavecenter|離開中場||*離開中場*|
-|left|左|||
+|left|左||*左*|
 |lightinfusion|光明灌注点你||*你中了聖光注入*|
-|lightstorm|閃電風暴|||
-|linegather|連線，快靠近|||
+|lightstorm|閃電風暴||*閃電風暴*|
+|linegather|連線靠近||*連線靠近*|
 |linesoon|||準備連線|
 |mblue|快到蓝色|move to blue|*快去藍色*|
 |mgreen|快到绿色|move to green|*快去綠色*|
@@ -247,10 +247,10 @@ DBM語音台本，斜體為芷小云從缺部份
 |mm6|靠近方块|move to Square|*靠近方塊*|
 |mm7|靠近叉叉|move to Cross|*靠近叉叉*|
 |mm8|靠近骷髅|move to Skull|*靠近骷髏*|
-|mobenough|能量已滿，遠離小怪|||
+|mobenough|能量已滿，遠離小怪||*能量已滿，遠離小怪*|
 |mobkill|||擊殺小怪|
-|mobout|拉開小怪|||
-|mobsoon|準備小怪|||
+|mobout|拉開小怪||*拉開小怪*|
+|mobsoon|準備小怪||*準備小怪*|
 |morange|快到橙色|move to orange|*快去橘色*|
 |moveboss|移動boss||*移動boss*|
 |movecenter|快进中场|move to center|*快進中場*|
@@ -262,23 +262,23 @@ DBM語音台本，斜體為芷小云從缺部份
 |movetotank|靠近坦克|move to tank|靠近坦克|
 |mpurple|快到紫色|move to purple|*快去紫色*|
 |myellow|快到黄色|move to yellow|*快去黃色*|
-|newportal|新传送门|new portal|新傳送門|
-|north|往北|||
-|northeast|往東北|||
-|northwest|往西北|||
-|orbrun|寶珠，快跑|||
-|otherin|||隊友入場(建議重錄)|
+|newportal|新传送门|new portal|*新傳送門*|
+|north|往北||*往北*|
+|northeast|往東北||*往東北*|
+|northwest|往西北||*往西*|
+|orbrun|寶珠，快跑||*寶珠快跑*|
+|otherin|||隊友入場|
 |otherout|||隊友出場|
-|pfour|四階段準備|||
-|phasechange|階段轉換|||
-|pthree|三階段準備|||
-|ptran|轉階段準備|||
-|ptwo|二階段準備|||
+|pfour|四階段準備||*準備第四階段*|
+|phasechange|階段轉換||*階段轉換*|
+|pthree|三階段準備||*準備第三階段*|
+|ptran|轉階段準備||*準備轉階段*|
+|ptwo|二階段準備||*準備第二階段*|
 |range2|||準備兩碼手雷|
 |range5|||五碼分散|
 |readyrescue|||準備救人|
-|right|右|||
-|runaway|快躲開|||
+|right|右||*右*|
+|runaway|快躲開||*快躲開*|
 |runin|快回人群||*快回人群*|
 |runout|跑開人群||*跑出人群*|
 |runtoedge|快靠边站||*快靠邊站*|
