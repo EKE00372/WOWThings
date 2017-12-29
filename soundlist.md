@@ -63,7 +63,7 @@
 | File name | zhCN | enUS | zhTW |
 |------|------|------|------|
 |153247|陨石快躲|Meteor run!|*隕石快躲*|
-|153804|快找泥水|"inhale| get inside the puddle"|*快找泥水*|
+|153804|快找泥水|inhale, get inside the puddle|*快找泥水*|
 |155327|快找盾牌|find shield |*快找盾牌*|
 |156096|死亡标记|marked for death|*死亡標記*|
 |156157|顺劈斩|Cleave|*順劈斬*|
