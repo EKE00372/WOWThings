@@ -176,7 +176,7 @@ DBM語音台本，斜體為芷小云從缺部份
 |ej9649|工程师出现|Engineer coming|*工程師出現*|
 |ej9648|保安出现|Security Guard coming|*守衛出現*|
 |ej9657|熔渣元素出现|Slag Elemental coming|*熔渣元素出現*|
-|ej9659召火者出现|Fire Caller coming|*召火者出現*|
+|ej9659|召火者出现|Fire Caller coming|*召火者出現*|
 |end|結束||*結束*|
 |energyhigh|能量過高||*能量過高*|
 |enrage|||激怒|
