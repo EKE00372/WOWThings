@@ -1,8 +1,10 @@
 # DBM-VP LIST
 
-DBM語音包台本
+DBM語音台本
 
 ### 火車王
+
+火車王部份芷小云全部從缺
 ***
 | File name | zhCN (Yike) | enUS (Demo) | zhTW (Yun) |
 |------|------|------|------|
@@ -49,19 +51,21 @@ DBM語音包台本
 ***
 | File name | zhCN | enUS | zhTW |
 |------|------|------|------|
-|1||||
-|2||||
-|3||||
-|4||||
-|5||||
-|6||||
-|7||||
-|8||||
-|9||||
-|10||||
-|11||||
+|1|一||*全缺*|
+|2|二|||
+|3|三|||
+|4|四|||
+|5|五|||
+|6|六|||
+|7|七|||
+|8|八|||
+|9|九|||
+|10|十|||
+|11|十一|||
 ***
 ### 主列表
+
+斜體=從缺
 ***
 | File name | zhCN | enUS | zhTW |
 |------|------|------|------|
@@ -99,17 +103,17 @@ DBM語音包台本
 |169613||||
 |172895||||
 |179202||||
-|179202h||||
-|179202k||||
-|179202m||||
+|179202h|传给治疗|throw eye to healer|*傳給補師*|
+|179202k|用眼打断|interrupt by eye|*用眼打斷*|
+|179202m|传给坦克|throw eye to tank|*傳給坦克*|
 |179406||||
 |180199||||
 |180459||||
 |180880||||
 |181799||||
-|184964a||||
-|184964b||||
-|184964c||||
+|184964a|第一位拉断枷锁|break torment first|*第一位拉斷鎖鏈*|
+|184964b|第二位拉断枷锁|break torment second|*第二位拉斷鎖鏈*|
+|184964c|第三位拉断枷锁|break torment third|*第三位拉斷鎖鏈*|
 |185014||||
 |185282||||
 |186123||||
@@ -304,26 +308,26 @@ DBM語音包台本
 |stopattack|停止攻擊|||
 |stopcast|停止施法|||
 |stopmove|停止移動|||
-|stunsoon|準備擊倒|||
-|sunderhigh|||破甲過高|
-|switchphase|切换世界||切換世界|
-|takedamage|承受傷害|||
+|stunsoon|準備擊倒||*準備擊倒*|
+|sunderhigh|破甲過高||破甲過高|
+|switchphase|切换世界||*切換世界*|
+|takedamage|承受傷害||*承受傷害*|
 |tankheal|注意刷坦||*注意補坦*|
 |targetchange|目標改變||*目標改變*|
 |targetyou|目標是你||*目標是你*|
 |tauntboss|嘲諷boss||*嘲諷boss*|
 |telesoon|準備傳送||*準備傳送*|
-|teleyou|你備傳送|||
-|thanks|||感恩嘍|
-|trannow|快凝神?|||
-|transplague|||??碎片|
-|turnaway|||快轉身|
+|teleyou|你備傳送||*你被傳送*|
+|thanks|謝謝了||感恩嘍|
+|trannow|注意凝神||*快凝神*|
+|transplague|傳遞碎片||傳遞碎片(糊了)|
+|turnaway|快轉身||快轉身|
 |useitem|使用道具|use item|*使用道具*|
-|uu|||你的你的|
+|uu|你的你的||你的你的|
 |watchimpale|注意刺穿|||
 |watchorb|注意寶珠|||
-|watchstep|||注意腳下|
-|watchwave|注意衝擊波|||
-|west||||
+|watchstep|注意腳下||注意腳下|
+|watchwave|注意衝擊波||*注意衝擊波*|
+|west|往西||*向西*|
 |whirlwind|whirlwind|旋风斩|Whirlwind|旋風斬|
 |wwsoon|準備旋風||旋風準備|
