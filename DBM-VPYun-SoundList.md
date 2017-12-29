@@ -76,7 +76,7 @@ DBM語音台本
 |156157|顺劈斩|Cleave|*順劈斬*|
 |156160|准备击飞|Bounding Cleave Coming|*準備擊飛*|
 |157060|快進黃色符文||*快踩大地符文*|
-|157349|奧能新星準備||*準備力量新星*|
+|157349|奧能新星準備|force nova coming|*準備力量新星*|
 |157952|粉碎|Pulverize|*粉碎*|
 |158057|致衰咆哮|Enfeebling Roar|*削弱怒吼*|
 |158093|震荡怒吼|Interrupting Shout|*斷法怒吼*|
@@ -90,9 +90,9 @@ DBM語音台本
 |160021s|蓝蘑菇出现|blue Mushroom coming|*藍蘑菇出現*|
 |160022s|绿蘑菇出现|green Mushroom coming|*綠蘑菇出現*|
 |160702|快打砲||*快砲擊*|
-|161411|遠離冰球||*遠離冰球*|
-|161612|準備接球||*準備接球*|
-|162894|大地之刺||*準備地刺*|
+|161411|远离冰球|run away from ice orb|*遠離冰球*|
+|161612|准备接球|ball soon|*準備接球*|
+|162894|大地之赐|Gift of Earth|*大地之賜*|
 |163141k|食脑真菌快打|Attack Mind Fungus|*噬心真菌快打*|
 |163142k|真菌食肉者快打|Attack Flesh Eater|*真菌食肉者快打*|
 |163594k|孢子投射者快打|Attack Spore Shooter|*孢子射擊者快打*|
@@ -101,21 +101,21 @@ DBM語音台本
 |1695uktar|乌克塔准备|uktar on the boat|*烏克塔準備*|
 |1695ukurogg|乌克罗格准备|uk'urogg on the boat|*烏庫洛格*|
 |169613|快踩小花||*快踩小花*|
-|172895||||
-|179202||||
+|172895|返回原位|return to start|*返回原位*|
+|179202|传给受害者|throw eye to someone with debuff|*傳給受害者*|
 |179202h|传给治疗|throw eye to healer|*傳給補師*|
 |179202k|用眼打断|interrupt by eye|*用眼打斷*|
 |179202m|传给坦克|throw eye to tank|*傳給坦克*|
-|179406||||
-|180199||||
-|180459||||
+|179406|灵魂裂劈|Soul Cleave|*破魂斬*|
+|180199|邪能血球快打|attack Fel Blood Globle|*魔化血塊快打*|
+|180459|血球快打|attack Blood Globule|*血塊快打*|
 |180880||||
 |181799||||
 |184964a|第一位拉断枷锁|break torment first|*第一位拉斷鎖鏈*|
 |184964b|第二位拉断枷锁|break torment second|*第二位拉斷鎖鏈*|
 |184964c|第三位拉断枷锁|break torment third|*第三位拉斷鎖鏈*|
 |185014||||
-|185282||||
+|185282|弹幕快躲|barrage run away|*彈幕快躲*|
 |186123||||
 |186333||||
 |189897||||
@@ -129,7 +129,7 @@ DBM語音台本
 |213576|照亮阴影|bring light to shadows|*照亮陰影*|
 |aesoon|準備AE||*準備AE*|
 |attacktotem|图腾快打|attack totem|*圖騰快打*|
-|attbomb|炸彈快打|||
+|attbomb|炸彈快打||*炸彈快打*|
 |attleft|||打左邊|
 |attmid|||打中間|
 |attright|||打右邊|
@@ -157,11 +157,11 @@ DBM語音台本
 |checkhp|注意血量||*注意血量*|
 |cntnuemove|||繼續移動|
 |com_go||||
-|defensive|注意減傷|||
+|defensive|注意減傷||*注意減傷*|
 |di|||沙包就位|
 |didi|||滴滴?|
-|dispelboss|快驅散|||
-|dispelnow|快驅散|||
+|dispelboss|驱散boss|dispel boss|*驅散boss*|
+|dispelnow|快驅散||*快驅散*|
 |doubleat|三重攻擊|||
 |dragonnow|?龍出現|||
 |dshigh|致死過高|||
@@ -179,22 +179,22 @@ DBM語音台本
 |ej9648|保安出现|Security Guard coming|*守衛出現*|
 |ej9657|熔渣元素出现|Slag Elemental coming|*熔渣元素出現*|
 |ej9659召火者出现|Fire Caller coming|*召火者出現*|
-|end|結束|||
+|end|結束||*結束*|
 |energyhigh|能量過高|||
 |enrage|||激怒|
 |failed|唉呀，討厭||*唉唷，討厭*|
-|farfromline|連線，快跑|||
+|farfromline|远离连线|far away from lines|*遠離連線*|
 |fearsoon|准备恐惧|fear incoming|*準備恐懼*|
 |felinfusion|邪能灌注点你||*你中了魔性注入*|
 |findgather|找人靠近|||
 |findmc|注意心控|||
 |findshadow|快進陰?|||
-|findshelter|快躲開|||
-|findshield|快找盾牌|||
+|findshelter|快找掩体|find shelter|*快找掩體*|
+|findshield|快找盾牌|find shield|*快找盾牌*|
 |firecircle|注意火圈|||
 |firerun|快跑，火焰點你|||
 |firewall|火牆火牆火牆火牆|||
-|frenzy|狂亂|||
+|frenzy|狂乱|frenzy||
 |frontcenter|中上中上中上|go front center|*中上中上*|
 |frontleft|左上左上左上|go front left|*左上左上*|
 |frontright|右上右上右上|go front right|*右上右上*|
