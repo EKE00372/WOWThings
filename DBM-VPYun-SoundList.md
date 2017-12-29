@@ -75,32 +75,32 @@ DBM語音台本
 |156096|死亡标记|marked for death|*死亡標記*|
 |156157|顺劈斩|Cleave|*順劈斬*|
 |156160|准备击飞|Bounding Cleave Coming|*準備擊飛*|
-|157060||||
-|157349||||
+|157060|快進黃色符文||*快踩大地符文*|
+|157349|奧能新星準備||*準備力量新星*|
 |157952|粉碎|Pulverize|*粉碎*|
 |158057|致衰咆哮|Enfeebling Roar|*削弱怒吼*|
 |158093|震荡怒吼|Interrupting Shout|*斷法怒吼*|
 |158134|盾牌冲锋|Shield Charge|*盾牌衝鋒*|
 |158200|地震|Quake|*地震*|
 |158599|火炮快打|attack turret|*火砲快打*|
-|159202|火柱出现|Flame pillar appears||
-|159202f|快找火柱|find Flame pillar||
-|159947r|准备投掷|toss coming||
-|159947y|你被投掷|toss on you||
-|160021s|蓝蘑菇出现|blue Mushroom coming||
-|160022s|绿蘑菇出现|green Mushroom coming||
-|160702||||
-|161411||||
-|161612||||
-|162894||||
+|159202|火柱出现|Flame pillar appears|*火柱出現*|
+|159202f|快找火柱|find Flame pillar|*快找火柱*|
+|159947r|准备投掷|toss coming|*準備投擲*|
+|159947y|你被投掷|toss on you|*你被投擲*|
+|160021s|蓝蘑菇出现|blue Mushroom coming|*藍蘑菇出現*|
+|160022s|绿蘑菇出现|green Mushroom coming|*綠蘑菇出現*|
+|160702|快打砲||*快砲擊*|
+|161411|遠離冰球||*遠離冰球*|
+|161612|準備接球||*準備接球*|
+|162894|大地之刺||*準備地刺*|
 |163141k|食脑真菌快打|Attack Mind Fungus|*噬心真菌快打*|
 |163142k|真菌食肉者快打|Attack Flesh Eater|*真菌食肉者快打*|
 |163594k|孢子投射者快打|Attack Spore Shooter|*孢子射擊者快打*|
-|164974||||
+|164974|快进白色符文|touch white runes|*快踩白色符文*|
 |1695gorak|高莱克准备|gorak on the boat|*勾拉克*|
 |1695uktar|乌克塔准备|uktar on the boat|*烏克塔準備*|
 |1695ukurogg|乌克罗格准备|uk'urogg on the boat|*烏庫洛格*|
-|169613||||
+|169613|快踩小花||*快踩小花*|
 |172895||||
 |179202||||
 |179202h|传给治疗|throw eye to healer|*傳給補師*|
@@ -120,7 +120,7 @@ DBM語音台本
 |186333||||
 |189897||||
 |192094|快躲小怪后面|run behind add|*躲到小怪後面*|
-|202792||||
+|202792|快咬人|bite now|*快咬人*|
 |205004|照亮小怪|bring light to mob|*照亮小怪*|
 |205408c|靠近螃蟹|find crab|*靠近巨蟹*|
 |205408d|靠近龙|find dragon|*靠近天龍*|
@@ -144,13 +144,13 @@ DBM語音台本
 |bombrun|快跑，炸彈點你|||
 |bombsoon|準備炸彈||*準備炸彈*|
 |bossout|拉開boss||*拉開boss*|
-|bosstobeam||||
-|breathsoon|||準備吐息|
-|carefly|||小心擊飛|
+|bosstobeam|快擋光||*快去擋光*|
+|breathsoon|準備吐息||準備吐息|
+|carefly|小心擊飛||小心擊飛|
 |center|中|||
 |centerleft|中偏左|||
 |centerright|中偏右|||
-|changemoon||||
+|changemoon|切换区域||*切換月面*|
 |changemt|換坦嘲諷||*換坦嘲諷*|
 |changetarget|目標轉換||*目標轉換*|
 |chargemove|||*衝鋒快躲*|
@@ -184,8 +184,8 @@ DBM語音台本
 |enrage|||激怒|
 |failed|唉呀，討厭||*唉唷，討厭*|
 |farfromline|連線，快跑|||
-|fearsoon|準備恐懼|||
-|felinfusion|邪能灌注点你||你中了魔性注入|
+|fearsoon|准备恐惧|fear incoming|*準備恐懼*|
+|felinfusion|邪能灌注点你||*你中了魔性注入*|
 |findgather|找人靠近|||
 |findmc|注意心控|||
 |findshadow|快進陰?|||
@@ -199,7 +199,7 @@ DBM語音台本
 |frontleft|左上左上左上|go front left|*左上左上*|
 |frontright|右上右上右上|go front right|*右上右上*|
 |gather|快集合|||
-|gathershare|||集合分攤|
+|gathershare|集合分担|share the damage|*集合分攤*|
 |getboned|||快拿骨甲|
 |ghostsoon|||準備靈魂|
 |group1|第一組準備||*第一組準備*|
@@ -211,14 +211,14 @@ DBM語音台本
 |healfull|刷满血量|heal full|*補滿血量*|
 |helpdispel|幫忙驅散||*幫忙驅散*|
 |helpkick|幫忙打斷||*幫忙打斷*|
-|helpme|救我|||
-|helpme2|救一下嘛|||
-|helpsoak|幫忙吸收|||
+|helpme|救我||*救救我*|
+|helpme2|救一下嘛||*救救我嘛*|
+|helpsoad|帮忙吸收|help soak|*幫忙吸收*|
 |holdit|快開自保技能|||
-|inktoshark||||
+|inktoshark|运送墨汁||*運送墨水*|
 |interruptsoon|打斷準備|||
-|jumpinpit||||
-|jumpnow|快跳|||
+|jumpinpit|快跳坑||*快跳快跳*|
+|jumpnow|快跳|jump now|*快跳*|
 |justrun|快跑|||
 |keepjump|保持跳動|||
 |keepmove|保持移動|||
@@ -233,9 +233,9 @@ DBM語音台本
 |killmob|||小怪快打|
 |killspirit|靈魂快打|||
 |laserrun|||快跑，雷射點你|
-|leavecenter|離開中場|||
+|leavecenter|離開中場||*離開中場*|
 |left|左|||
-|lightinfusion||||
+|lightinfusion|光明灌注点你||*你中了聖光注入*|
 |lightstorm|閃電風暴|||
 |linegather|連線，快靠近|||
 |linesoon|||準備連線|
@@ -255,12 +255,12 @@ DBM語音台本
 |mobsoon|準備小怪|||
 |morange|快到橙色|move to orange|*快去橘色*|
 |moveboss||||
-|movecenter|快近中場|||
-|moveleft|向左走|||
-|moveright|往右走|||
+|movecenter|快进中场|move to center|*快進中場*|
+|moveleft|向左走||*向左走*|
+|moveright|往右走||*向右走*|
 |movesoon|||快跑位|
 |movetimebubble|靠近时间力场||*靠近時間力場*|
-|movetojelly||||
+|movetojelly|靠近水母||*靠近水母*|
 |movetotank|靠近坦克|move to tank|靠近坦克|
 |mpurple|快到紫色|move to purple|*快去紫色*|
 |myellow|快到黄色|move to yellow|*快去黃色*|
