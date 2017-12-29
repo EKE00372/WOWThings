@@ -82,7 +82,7 @@ DBM語音台本
 |158093|震荡怒吼|Interrupting Shout|*斷法怒吼*|
 |158134|盾牌冲锋|Shield Charge|*盾牌衝鋒*|
 |158200|地震|Quake|*地震*|
-|158599||||
+|158599|火炮快打|attack turret|*火砲快打*|
 |159202|火柱出现|Flame pillar appears||
 |159202f|快找火柱|find Flame pillar||
 |159947r|准备投掷|toss coming||
@@ -121,13 +121,13 @@ DBM語音台本
 |189897||||
 |192094|快躲小怪后面|run behind add|*躲到小怪後面*|
 |202792||||
-|205004||||
+|205004|照亮小怪|bring light to mob|*照亮小怪*|
 |205408c|靠近螃蟹|find crab|*靠近巨蟹*|
 |205408d|靠近龙|find dragon|*靠近天龍*|
 |205408h|靠近猎人|find hunterm|*靠近獵戶*|
 |205408w|靠近狼|find wolf|*靠近天狼*|
-|213576||||
-|aesoon|準備AE|||
+|213576|照亮阴影|bring light to shadows|*照亮陰影*|
+|aesoon|準備AE||*準備AE*|
 |attacktotem|图腾快打|attack totem|*圖騰快打*|
 |attbomb|炸彈快打|||
 |attleft|||打左邊|
@@ -182,7 +182,7 @@ DBM語音台本
 |end|結束|||
 |energyhigh|能量過高|||
 |enrage|||激怒|
-|failed|唉呀，討厭|||
+|failed|唉呀，討厭||*唉唷，討厭*|
 |farfromline|連線，快跑|||
 |fearsoon|準備恐懼|||
 |felinfusion|邪能灌注点你||你中了魔性注入|
@@ -202,15 +202,15 @@ DBM語音台本
 |gathershare|||集合分攤|
 |getboned|||快拿骨甲|
 |ghostsoon|||準備靈魂|
-|group1||||
-|group2||||
-|group3||||
-|group4||||
-|group5||||
-|healall|注意群療|||
-|healfull|刷满血量|heal full|補滿血量|
-|helpdispel|幫忙驅散|||
-|helpkick|幫忙打斷|||
+|group1|第一組準備||*第一組準備*|
+|group2|第二組準備||*第二組準備*|
+|group3|第三組準備||*第三組準備*|
+|group4|第四組準備||*第四組準備*|
+|group5|第五組準備||*第五組準備*|
+|healall|注意群療||*注意群補*|
+|healfull|刷满血量|heal full|*補滿血量*|
+|helpdispel|幫忙驅散||*幫忙驅散*|
+|helpkick|幫忙打斷||*幫忙打斷*|
 |helpme|救我|||
 |helpme2|救一下嘛|||
 |helpsoak|幫忙吸收|||
@@ -298,7 +298,7 @@ DBM語音台本
 |southwest||||
 |spear|投擲長矛|||
 |specialsoon|準備特別技能|||
-|speedup|||首領加速(有點糊)|
+|speedup|||首領加速|
 |stackhigh|层数过高|stack high|*層數過高*|
 |stepring|||注意踩圈|
 |stilldanger|危險危險|||
@@ -320,7 +320,7 @@ DBM語音台本
 |teleyou|你備傳送||*你被傳送*|
 |thanks|謝謝了||感恩嘍|
 |trannow|注意凝神||*快凝神*|
-|transplague|傳遞碎片||傳遞碎片(糊了)|
+|transplague|傳遞碎片||*傳遞碎片*|
 |turnaway|快轉身||快轉身|
 |useitem|使用道具|use item|*使用道具*|
 |uu|你的你的||你的你的|
@@ -329,5 +329,5 @@ DBM語音台本
 |watchstep|注意腳下||注意腳下|
 |watchwave|注意衝擊波||*注意衝擊波*|
 |west|往西||*向西*|
-|whirlwind|whirlwind|旋风斩|Whirlwind|旋風斬|
-|wwsoon|準備旋風||旋風準備|
+|whirlwind|旋风斩|Whirlwind|*旋風斬*|
+|wwsoon|準備旋風||*旋風準備*|
