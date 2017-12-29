@@ -63,7 +63,7 @@ DBM語音台本，斜體為芷小云從缺部份
 |10|十|||
 |11|十一|||
 
-### 主列表
+## 主列表
 
 | File name | zhCN | enUS | zhTW |
 |------|------|------|------|
@@ -95,10 +95,10 @@ DBM語音台本，斜體為芷小云從缺部份
 |163142k|真菌食肉者快打|Attack Flesh Eater|*真菌食肉者快打*|
 |163594k|孢子投射者快打|Attack Spore Shooter|*孢子射擊者快打*|
 |164974|快进白色符文|touch white runes|*快踩白色符文*|
-|1695gorak|高莱克准备|gorak on the boat|*勾拉克*|
-|1695uktar|乌克塔准备|uktar on the boat|*烏克塔準備*|
-|1695ukurogg|乌克罗格准备|uk'urogg on the boat|*烏庫洛格*|
-|169613|快踩小花||*快踩小花*|
+|1695gorak|高莱克准备|gorak on the boat|*準備勾拉克*|
+|1695uktar|乌克塔准备|uktar on the boat|*準備烏克塔*|
+|1695ukurogg|乌克罗格准备|uk'urogg on the boat|*準備烏庫洛格*|
+|169613|快踩小花||*小花快踩*|
 |172895|返回原位|return to start|*返回原位*|
 |179202|传给受害者|throw eye to someone with debuff|*傳給受害者*|
 |179202h|传给治疗|throw eye to healer|*傳給補師*|
@@ -115,7 +115,7 @@ DBM語音台本，斜體為芷小云從缺部份
 |185014|快跑，聚焦混乱点你|Focused Chaos on you, run|*快跑，聚焦混沌*|
 |185282|弹幕快躲|barrage run away|*彈幕快躲*|
 |186123|快跑，精炼混乱点你|Wrought Chaos on you, run|*快跑，型塑混沌*|
-|186333|快进火焰|run into the fire||
+|186333|快进火焰|run into the fire|*快去踩火*|
 |189897|魔火之魂快打|attack doomfire spirit|*毀滅之火快打*|
 |192094|快躲小怪后面|run behind add|*躲到小怪後面*|
 |202792|快咬人|bite now|*快咬人*|
@@ -136,18 +136,18 @@ DBM語音台本，斜體為芷小云從缺部份
 |backright|右下右下右下|go back right|*右下右下*|
 |backward|||背對人群|
 |banishment|||已被放逐|
-|bigmob|||準備大怪|
+|bigmob|||*大怪出現*|
 |bigmobsoon|||準備大怪|
 |bombnow|||準備爆炸|
-|bombrun|快跑，炸彈點你|||
+|bombrun|快跑，炸彈點你||*快跑，炸彈點你*|
 |bombsoon|準備炸彈||*準備炸彈*|
 |bossout|拉開boss||*拉開boss*|
 |bosstobeam|快擋光||*快去擋光*|
 |breathsoon|準備吐息||準備吐息|
 |carefly|小心擊飛||小心擊飛|
-|center|中|||
-|centerleft|中偏左|||
-|centerright|中偏右|||
+|center|中||*中*|
+|centerleft|中偏左||*中間偏左*|
+|centerright|中偏右||*中間偏右*|
 |changemoon|切换区域||*切換月面*|
 |changemt|換坦嘲諷||*換坦嘲諷*|
 |changetarget|目標轉換||*目標轉換*|
@@ -157,15 +157,15 @@ DBM語音台本，斜體為芷小云從缺部份
 |com_go||||
 |defensive|注意減傷||*注意減傷*|
 |di|||沙包就位|
-|didi|||滴滴?|
+|didi||||
 |dispelboss|驱散boss|dispel boss|*驅散boss*|
 |dispelnow|快驅散||*快驅散*|
 |doubleat|三重攻擊|||
-|dragonnow|?龍出現|||
-|dshigh|致死過高|||
-|eastogg||||
-|ej11266||||
-|ej11269||||
+|dragonnow|小龍出現||*小龍出現*|
+|dshigh|致死過高||*致死過高*|
+|eastogg|往東||*往東*|
+|ej11266|嗜血者快打|attack Blood thirster|*嗜血者快打*|
+|ej11269|恐魔快打|attack Hulking Terror|*恐魔快打*|
 |ej11429|攻城车出現|Demolisher|*石毀車出現*|
 |ej11435|巨炮出現|Artillery|*火砲出現*|
 |ej11437|喷火机出現|Flamebelcher|*噴火車出現*|
@@ -192,7 +192,7 @@ DBM語音台本，斜體為芷小云從缺部份
 |firecircle|注意火圈||*注意火圈*|
 |firerun|快跑，火焰點你|||
 |firewall|火牆火牆火牆火牆||*火牆火牆*|
-|frenzy|狂乱|frenzy||
+|frenzy|狂乱|frenzy|*狂亂*|
 |frontcenter|中上中上中上|go front center|*中上中上*|
 |frontleft|左上左上左上|go front left|*左上左上*|
 |frontright|右上右上右上|go front right|*右上右上*|
@@ -328,4 +328,4 @@ DBM語音台本，斜體為芷小云從缺部份
 |watchwave|注意衝擊波||*注意衝擊波*|
 |west|往西||*往西*|
 |whirlwind|旋风斩|Whirlwind|*旋風斬*|
-|wwsoon|準備旋風||*旋風準備*|
+|wwsoon|準備旋風||*準備旋風*|
