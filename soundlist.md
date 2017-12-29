@@ -1,6 +1,10 @@
-火車王
+# DBM-VP LIST
+
+DBM語音包台本
+
+### 火車王
 ***
-| File name | zhCN | enUS | zhTW |
+| File name | zhCN (Yike) | enUS (Demo) | zhTW (Yun) |
 |------|------|------|------|
 |Thogar/A1|一轨道快车|lane 1 express|一軌快車|
 |Thogar/A2|二轨道快车|lane 2 express|二軌快車|
@@ -39,10 +43,9 @@
 |Thogar/E3|三轨道喷火車|lane 3 Deforester|三軌噴火|
 |Thogar/E4|四轨道喷火車|lane 4 Deforester|四軌噴火|
 |Thogar/E23|二三轨道喷火車|lane 2 and 3 Deforester|二三軌道噴火|
-|Thogar/EX|随机轨道喷火|random Deforester|隨機軌道噴火|
 |Thogar/F|随机三轨道快车|3 Random Lanes|隨機三軌快車|
 ***
-倒數
+### 倒數計時
 ***
 | File name | zhCN | enUS | zhTW |
 |------|------|------|------|
@@ -58,7 +61,7 @@
 |10||||
 |11||||
 ***
-主列表
+### 主列表
 ***
 | File name | zhCN | enUS | zhTW |
 |------|------|------|------|
