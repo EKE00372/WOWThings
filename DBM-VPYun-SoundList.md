@@ -107,16 +107,16 @@ DBM語音台本，斜體為芷小云從缺部份
 |179406|灵魂裂劈|Soul Cleave|*破魂斬*|
 |180199|邪能血球快打|attack Fel Blood Globle|*魔化血塊快打*|
 |180459|血球快打|attack Blood Globule|*血塊快打*|
-|180880||||
-|181799||||
+|180880|拉断锁链|break chain|*拉斷鎖鏈*|
+|181799|5秒后暗影之力|Shadow Force in 5|*五秒後暗影之力*|
 |184964a|第一位拉断枷锁|break torment first|*第一位拉斷鎖鏈*|
 |184964b|第二位拉断枷锁|break torment second|*第二位拉斷鎖鏈*|
 |184964c|第三位拉断枷锁|break torment third|*第三位拉斷鎖鏈*|
-|185014||||
+|185014|快跑，聚焦混乱点你|Focused Chaos on you, run|*快跑，聚焦混沌*|
 |185282|弹幕快躲|barrage run away|*彈幕快躲*|
-|186123||||
-|186333||||
-|189897||||
+|186123|快跑，精炼混乱点你|Wrought Chaos on you, run|*快跑，型塑混沌*|
+|186333|快进火焰|run into the fire||
+|189897|魔火之魂快打|attack doomfire spirit|*毀滅之火快打*|
 |192094|快躲小怪后面|run behind add|*躲到小怪後面*|
 |202792|快咬人|bite now|*快咬人*|
 |205004|照亮小怪|bring light to mob|*照亮小怪*|
@@ -166,12 +166,12 @@ DBM語音台本，斜體為芷小云從缺部份
 |eastogg||||
 |ej11266||||
 |ej11269||||
-|ej11429||||
-|ej11435||||
-|ej11437||||
-|ej11439||||
-|ej11582||||
-|ej11712||||
+|ej11429|攻城车出現|Demolisher|*石毀車出現*|
+|ej11435|巨炮出現|Artillery|*火砲出現*|
+|ej11437|喷火机出現|Flamebelcher|*噴火車出現*|
+|ej11439|碎石机出現|Crusher|*粉碎者車現*|
+|ej11582|召亡者快打|attack Deathcaller|*喚亡者快打*|
+|ej11712|运输车出現|Transporter|*運兵車出現*|
 |ej9571|坦克快打|attack tank|*坦克快打*|
 |ej9649|工程师出现|Engineer coming|*工程師出現*|
 |ej9648|保安出现|Security Guard coming|*守衛出現*|
@@ -252,7 +252,7 @@ DBM語音台本，斜體為芷小云從缺部份
 |mobout|拉開小怪|||
 |mobsoon|準備小怪|||
 |morange|快到橙色|move to orange|*快去橘色*|
-|moveboss||||
+|moveboss|移動boss||*移動boss*|
 |movecenter|快进中场|move to center|*快進中場*|
 |moveleft|向左走||*向左走*|
 |moveright|往右走||*向右走*|
@@ -285,27 +285,27 @@ DBM語音台本，斜體為芷小云從缺部份
 |safenow|安全安全||*安全安全*|
 |scatter|快分散||*快分散*|
 |scattersoon|注意分散||*注意分散*|
-|shadowrun|快跑，暗影點你|||
+|shadowrun|快跑，暗影點你||*快跑，暗影點你*|
 |shareone|一组分担|group one share|*一組分攤*|
 |sharetwo|二组分担|group two share|*二組分攤*|
-|shieldover|快打，護盾結束|||
+|shieldover|快打，護盾結束||*快打，護盾結束*|
 |shockwave|震懾波||*震懾波*|
 |silencesoon|准备沉默|silence soon|*準備沉默*|
 |south|往南||*往南*|
 |southeast|往東南||*往東南*|
 |southwest|往西南||*往西南*|
-|spear|投擲長矛|||
+|spear|投擲長矛||*投擲長矛*|
 |specialsoon|準備特別技能||*準備特殊技能*|
 |speedup|||首領加速|
 |stackhigh|层数过高|stack high|*層數過高*|
 |stepring|||注意踩圈|
 |stilldanger|危險危險||*危險危險*|
-|stompsoon|準備踐踏|||
-|stompstart|踐踏開始|||
-|stopatk|注意停手|||
-|stopattack|停止攻擊|||
-|stopcast|停止施法|||
-|stopmove|停止移動|||
+|stompsoon|準備踐踏||*準備踐踏*|
+|stompstart|踐踏開始||*踐踏開始*|
+|stopatk|注意停手||*注意停手*|
+|stopattack|停止攻擊||*停止攻擊*|
+|stopcast|停止施法||*停止施法*|
+|stopmove|停止移動||*停止移動*|
 |stunsoon|準備擊倒||*準備擊倒*|
 |sunderhigh|破甲過高||破甲過高|
 |switchphase|切换世界||*切換世界*|
@@ -323,7 +323,7 @@ DBM語音台本，斜體為芷小云從缺部份
 |useitem|使用道具|use item|*使用道具*|
 |uu|你的你的||你的你的|
 |watchimpale|注意穿刺||*注意穿刺*|
-|watchorb|注意寶珠||*注意寶珠*|
+|watchorb|注意宝珠|watch orb|*注意寶珠*|
 |watchstep|注意腳下||注意腳下|
 |watchwave|注意衝擊波||*注意衝擊波*|
 |west|往西||*往西*|
