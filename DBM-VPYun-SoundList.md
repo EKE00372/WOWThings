@@ -160,7 +160,7 @@ DBM語音台本，斜體為芷小云從缺部份
 |didi||||
 |dispelboss|驱散boss|dispel boss|*驅散boss*|
 |dispelnow|快驅散||*快驅散*|
-|doubleat|三重攻擊|||
+|doubleat|三重攻擊||*三重穿刺*|
 |dragonnow|小龍出現||*小龍出現*|
 |dshigh|致死過高||*致死過高*|
 |eastogg|往東||*往東*|
@@ -184,13 +184,13 @@ DBM語音台本，斜體為芷小云從缺部份
 |farfromline|远离连线|far away from lines|*遠離連線*|
 |fearsoon|准备恐惧|fear incoming|*準備恐懼*|
 |felinfusion|邪能灌注点你||*你中了魔性注入*|
-|findgather|找人靠近|||
+|findgather|找人靠近||*找人靠近*|
 |findmc|注意心控||*注意心控*|
-|findshadow|快進陰影|||
+|findshadow|快進陰影||*快進陰影*|
 |findshelter|快找掩体|find shelter|*快找掩體*|
 |findshield|快找盾牌|find shield|*快找盾牌*|
 |firecircle|注意火圈||*注意火圈*|
-|firerun|快跑，火焰點你|||
+|firerun|快跑，火焰點你||*快跑，火焰點你*|
 |firewall|火牆火牆火牆火牆||*火牆火牆*|
 |frenzy|狂乱|frenzy|*狂亂*|
 |frontcenter|中上中上中上|go front center|*中上中上*|
@@ -200,11 +200,11 @@ DBM語音台本，斜體為芷小云從缺部份
 |gathershare|集合分担|share the damage|*集合分攤*|
 |getboned|||快拿骨甲|
 |ghostsoon|||準備靈魂|
-|group1|第一組準備||*第一組準備*|
-|group2|第二組準備||*第二組準備*|
-|group3|第三組準備||*第三組準備*|
-|group4|第四組準備||*第四組準備*|
-|group5|第五組準備||*第五組準備*|
+|group1|第一組準備||*一組準備*|
+|group2|第二組準備||*二組準備*|
+|group3|第三組準備||*三組準備*|
+|group4|第四組準備||*四組準備*|
+|group5|第五組準備||*五組準備*|
 |healall|注意群療||*注意群補*|
 |healfull|刷满血量|heal full|*補滿血量*|
 |helpdispel|幫忙驅散||*幫忙驅散*|
