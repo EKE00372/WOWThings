@@ -331,6 +331,8 @@ end或查看歷史檢視最新增加的語音
 |whirlwind|旋风斩|Whirlwind|*旋風斬*|
 |wwsoon|準備旋風||*準備旋風*|
 
-1/19
+##1/19
+
 | File name | zhCN (Yike) | enUS (Demo) | zhTW (Yun) |
+|------|------|------|------|
 |pfive|五阶段准备|phase five|準備第五階段|
