@@ -5,8 +5,10 @@ end或查看歷史檢視最新增加的語音
 
 ## 火車王
 
-火車王部份**芷小云全部從缺**
-
+<details>
+  <summary>火車王部份：芷小云全部從缺</summary>
+  <p>
+    
 | File name | zhCN (Yike) | enUS (Demo) | zhTW (Yun) |
 |------|------|------|------|
 |Thogar/A1|一轨道快车|lane 1 express|一軌快車|
@@ -48,8 +50,15 @@ end或查看歷史檢視最新增加的語音
 |Thogar/E23|二三轨道喷火車|lane 2 and 3 Deforester|二三軌道噴火|
 |Thogar/F|随机三轨道快车|3 Random Lanes|隨機三軌快車|
 
+</p>
+</details>
+
 ## 倒數計時
 
+<details>
+  <summary>倒數計時：芷小云全部從缺</summary>
+  <p>
+    
 | File name | zhCN (Yike) | enUS (Demo) | zhTW (Yun) |
 |------|------|------|------|
 |1|一||*全缺*|
@@ -63,6 +72,9 @@ end或查看歷史檢視最新增加的語音
 |9|九|||
 |10|十|||
 |11|十一|||
+
+  </p>
+</details>
 
 ## 主列表
 
