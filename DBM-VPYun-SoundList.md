@@ -1,7 +1,6 @@
 # DBM-VP LIST
 
-DBM語音台本，斜體為芷小云從缺部份  
-end或查看歷史檢視最新增加的語音
+DBM語音台本，end或查看歷史檢視最新增加的語音
 
 ## 火車王
 
@@ -78,6 +77,10 @@ end或查看歷史檢視最新增加的語音
 
 ## 主列表
 
+<details>
+  <summary>斜體：5.4以後從缺</summary>
+  <p>
+   
 | File name | zhCN (Yike) | enUS (Demo) | zhTW (Yun) |
 |------|------|------|------|
 |153247|陨石快躲|Meteor run!|*隕石快躲*|
@@ -343,8 +346,18 @@ end或查看歷史檢視最新增加的語音
 |whirlwind|旋风斩|Whirlwind|*旋風斬*|
 |wwsoon|準備旋風||*準備旋風*|
 
-##1/19
+</p>
+</details>
 
+## 往後新增
+
+<details open>
+  <summary>2017/12/15以後新增</summary>
+  <p>
+   
 | File name | zhCN (Yike) | enUS (Demo) | zhTW (Yun) |
 |------|------|------|------|
 |pfive|五阶段准备|phase five|準備第五階段|
+
+  </p>
+</details>
