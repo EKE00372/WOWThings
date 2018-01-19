@@ -1,6 +1,10 @@
 # DBM-VP LIST
 
-DBM語音台本，end或查看歷史檢視最新增加的語音
+DBM語音台本  
+
+[舊版芷小云語音包](https://wow.curseforge.com/projects/vem-sound-yun)最後更新於2014/10/22  
+斜體代表新版增補，校對範本為vp-yike，英文為vp-demo  
+新版台本初次更新於2017/12/28，後續新增end查看
 
 ## 火車王
 
