@@ -1,6 +1,7 @@
 # DBM-VP LIST
 
-DBM語音台本，斜體為芷小云從缺部份
+DBM語音台本，斜體為芷小云從缺部份  
+end或查看歷史檢視最新增加的語音
 
 ## 火車王
 
@@ -49,7 +50,7 @@ DBM語音台本，斜體為芷小云從缺部份
 
 ## 倒數計時
 
-| File name | zhCN | enUS | zhTW |
+| File name | zhCN (Yike) | enUS (Demo) | zhTW (Yun) |
 |------|------|------|------|
 |1|一||*全缺*|
 |2|二|||
@@ -65,7 +66,7 @@ DBM語音台本，斜體為芷小云從缺部份
 
 ## 主列表
 
-| File name | zhCN | enUS | zhTW |
+| File name | zhCN (Yike) | enUS (Demo) | zhTW (Yun) |
 |------|------|------|------|
 |153247|陨石快躲|Meteor run!|*隕石快躲*|
 |153804|快找泥水|inhale, get inside the puddle|*快找泥水*|
@@ -329,3 +330,7 @@ DBM語音台本，斜體為芷小云從缺部份
 |west|往西||*往西*|
 |whirlwind|旋风斩|Whirlwind|*旋風斬*|
 |wwsoon|準備旋風||*準備旋風*|
+
+1/19
+| File name | zhCN (Yike) | enUS (Demo) | zhTW (Yun) |
+|pfive|五阶段准备|phase five|準備第五階段|
