@@ -3,8 +3,9 @@
 DBM語音台本  
 
 [舊版芷小云語音包](https://wow.curseforge.com/projects/vem-sound-yun)最後更新於2014/10/22  
-斜體代表新版增補，校對範本為vp-yike，英文為vp-demo  
-新版台本初次更新於2017/12/28，後續新增end查看
+斜體代表新版增補，校對範本為[vp-yike](https://github.com/Mini-Dragon/DBM-VoicePack-Yike/blob/master/voicelist.csv)，英文為vp-demo  
+新版台本初次更新於2017/12/28，後續新增end查看  
+本頁面僅為台本，項目由[迷你龍](https://github.com/Mini-Dragon/DBM-VoicePack-Yun)發佈維護，給大佬遞茶；使用前請詳閱license，切勿改作
 
 ## 火車王
 
