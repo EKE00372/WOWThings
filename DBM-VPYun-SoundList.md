@@ -2,7 +2,7 @@
 
 這是DBM芷小云語音包的台本。  
 
-[舊版](https://wow.curseforge.com/projects/vem-sound-yun)最後更新於2014/10/22，新版台本初次更新於2017/12/28；台本列表前三項為參照範本更新的補完列表，斜體代表新版增補，12/28以後的新增台詞請直接end查看最後一項。  
+[舊版](https://wow.curseforge.com/projects/vem-sound-yun)最後更新於2014/10/22，新版台本初次更新於2017/12/28；台本列表前三項為參照範本更新的補完列表，斜體代表新版增補，12/28以後的新增與修正請直接end查看最後一項，斜體代表舊語音台詞變更。  
 校對以本地化為主，用語原則上以台灣(zhTW)為準；由於我並非dbm用戶且轉戰美版已三年餘，所以有可能不完全適合台版用語習慣，不完善之處請提Issue修正。  
 
 校對範本：[VP-Yike(zhCN)](https://github.com/Mini-Dragon/DBM-VoicePack-Yike/blob/master/voicelist.csv)  
@@ -267,7 +267,7 @@
 |mgreen|快到绿色|move to green|*快去綠色*|
 |mm1|靠近星星|move to Star|*靠近星星*|
 |mm3|靠近菱形|move to Diamond|*靠近菱形*|
-|mm4|靠近三角|move to Triangle|*靠三近角*|
+|mm4|靠近三角|move to Triangle|*靠近三角*|
 |mm5|靠近月亮|move to Moon|*靠近月亮*|
 |mm6|靠近方块|move to Square|*靠近方塊*|
 |mm7|靠近叉叉|move to Cross|*靠近叉叉*|
