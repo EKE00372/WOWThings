@@ -1,17 +1,16 @@
 # DBM-VPYun(zhTW) LIST
 
-DBM語音台本  
+這是DBM芷小云語音包的台本。  
 
-[舊版芷小云語音包](https://wow.curseforge.com/projects/vem-sound-yun)最後更新於2014/10/22，新版台本初次更新於2017/12/28  
-斜體代表新版增補，後續新增end查看  
-校對範本為[vp-yike](https://github.com/Mini-Dragon/DBM-VoicePack-Yike/blob/master/voicelist.csv)，英文為[vp-demo](https://www.curseforge.com/wow/addons/dbm-voicepack-demo)，校對以本地化為主，用語原則上以台灣(zhTW)為準  
+[舊版](https://wow.curseforge.com/projects/vem-sound-yun)最後更新於2014/10/22，新版台本初次更新於2017/12/28；台本列表前三項為參照範本更新的補完列表，斜體代表新版增補，12/28以後的新增台詞請直接end查看最後一項。  
+校對以本地化為主，用語原則上以台灣(zhTW)為準；由於我並非dbm用戶且轉戰美版已三年餘，所以有可能不完全適合台版用語習慣，不完善之處請提Issue修正。  
+
+校對範本：[VP-Yike(zhCN)](https://github.com/Mini-Dragon/DBM-VoicePack-Yike/blob/master/voicelist.csv)  
+英文參照：[VP-Demo](https://www.curseforge.com/wow/addons/dbm-voicepack-demo)  
+其他：[VP-XF(zhCN)](https://www.curseforge.com/wow/addons/dbm-voice-pack-xfchinese-female)、
+[VP-Taotao(zhCN)](https://bbs.ngacn.cc/read.php?tid=11262040)、[VP-TTS(enUS)](https://www.curseforge.com/wow/addons/dbm-voicepack-vem)  
 
 本頁面僅為台本，項目由[迷你龍](https://github.com/Mini-Dragon/DBM-VoicePack-Yun)發佈維護，給大佬遞茶；使用前請詳閱license，切勿改作
-
-其他：  
-[vp-xf(zhCN)](https://www.curseforge.com/wow/addons/dbm-voice-pack-xfchinese-female)  
-[vp-taotao(zhCN)](https://bbs.ngacn.cc/read.php?tid=11262040)  
-[vp-tts(enUS](https://www.curseforge.com/wow/addons/dbm-voicepack-vem)
 
 ## 火車王
 
@@ -363,7 +362,7 @@ DBM語音台本
 ## 往後新增
 
 <details open>
-  <summary>2017/12/15以後新增</summary>
+  <summary>2017/12/28以後新增</summary>
   <p>
    
 | File name | zhCN (Yike) | enUS (Demo) | zhTW (Yun) |
