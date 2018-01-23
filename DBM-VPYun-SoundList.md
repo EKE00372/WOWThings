@@ -266,7 +266,6 @@
 |mblue|快到蓝色|move to blue|*快去藍色*|
 |mgreen|快到绿色|move to green|*快去綠色*|
 |mm1|靠近星星|move to Star|*靠近星星*|
-|mm2|靠近大饼|move to Circle|*靠近大餅*|
 |mm3|靠近菱形|move to Diamond|*靠近菱形*|
 |mm4|靠近三角|move to Triangle|*靠三近角*|
 |mm5|靠近月亮|move to Moon|*靠近月亮*|
@@ -362,13 +361,14 @@
 ## 往後新增
 
 <details open>
-  <summary>2017/12/28以後新增</summary>
+  <summary>2017/12/28以後更新與修正</summary>
   <p>
    
 | File name | zhCN (Yike) | enUS (Demo) | zhTW (Yun) |
 |------|------|------|------|
 |pfive|五阶段准备|phase five|準備第五階段|
 |attackshield|攻击护盾|attack shield|攻擊護盾|
+|mm2|靠近大饼|move to Circle|*靠近圈圈*|
 
   </p>
 </details>
