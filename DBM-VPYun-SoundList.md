@@ -368,6 +368,7 @@
 | File name | zhCN (Yike) | enUS (Demo) | zhTW (Yun) |
 |------|------|------|------|
 |pfive|五阶段准备|phase five|準備第五階段|
+|attackshield|攻击护盾|attack shield|攻擊護盾|
 
   </p>
 </details>
