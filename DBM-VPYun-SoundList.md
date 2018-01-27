@@ -1,21 +1,21 @@
 # DBM-VPYun(zhTW) LIST
 
-這是DBM芷小云語音包的台本。  
+這是DBM芷小芸語音包的台本。  
 
-[舊版](https://wow.curseforge.com/projects/vem-sound-yun)最後更新於2014/10/22，新版台本初次更新於2017/12/28；台本列表前三項為參照範本更新的補完列表，斜體代表新版增補，**12/28以後的新增與修正請直接end查看最後一項，斜體代表舊語音台詞變更。**  
-校對以本地化為主，用語原則上以台灣(zhTW)為準；由於我並非dbm用戶且轉戰美版已三年餘，所以有可能不完全適合台版用語習慣，不完善之處請提Issue修正。  
+[舊版](https://wow.curseforge.com/projects/vem-sound-yun)最後更新於2014/10/22，[新版](https://wow.curseforge.com/projects/dbm-voicepack-yun)台本初次更新於2017/12/28；台本列表前三項為參照範本更新的補完列表，斜體代表新版增補，**12/28以後的新增與修正請直接end查看最後一項，斜體代表舊語音台詞變更。**  
+校對以本地化為主，用語原則上以台灣(zhTW)為準；由於我並非dbm用戶且轉戰美版已三年餘，所以有可能不完全適合台版用語習慣，不完善之處請提Issue或PR修正。  
 
 校對範本：[VP-Yike(zhCN)](https://github.com/Mini-Dragon/DBM-VoicePack-Yike/blob/master/voicelist.csv)  
 英文參照：[VP-Demo](https://www.curseforge.com/wow/addons/dbm-voicepack-demo)  
 其他：[VP-XF(zhCN)](https://www.curseforge.com/wow/addons/dbm-voice-pack-xfchinese-female)、
 [VP-Taotao(zhCN)](https://bbs.ngacn.cc/read.php?tid=11262040)、[VP-TTS(enUS)](https://www.curseforge.com/wow/addons/dbm-voicepack-vem)  
 
-本頁面僅為台本，項目由[迷你龍](https://github.com/Mini-Dragon/DBM-VoicePack-Yun)發佈維護，給大佬遞茶；使用前請詳閱license，切勿改作
+本頁面僅為台本，項目由[迷你龍](https://github.com/Mini-Dragon/DBM-VoicePack-Yun)發佈維護；使用前請詳閱license，切勿改作。
 
 ## 火車王
 
 <details>
-  <summary>火車王部份：芷小云全部從缺</summary>
+  <summary>火車王部份</summary>
   <p>
     
 | File name | zhCN (Yike) | enUS (Demo) | zhTW (Yun) |
@@ -65,7 +65,7 @@
 ## 倒數計時
 
 <details>
-  <summary>倒數計時：芷小云全部從缺</summary>
+  <summary>倒數計時</summary>
   <p>
     
 | File name | zhCN (Yike) | enUS (Demo) | zhTW (Yun) |
@@ -88,7 +88,7 @@
 ## 主列表
 
 <details>
-  <summary>斜體：5.4以後從缺</summary>
+  <summary>斜體</summary>
   <p>
    
 | File name | zhCN (Yike) | enUS (Demo) | zhTW (Yun) |
@@ -138,7 +138,6 @@
 |184964a|第一位拉断枷锁|break torment first|*第一位拉斷鎖鏈*|
 |184964b|第二位拉断枷锁|break torment second|*第二位拉斷鎖鏈*|
 |184964c|第三位拉断枷锁|break torment third|*第三位拉斷鎖鏈*|
-|185014|快跑，聚焦混乱点你|Focused Chaos on you, run|*快跑，聚焦混沌*|
 |185282|弹幕快躲|barrage run away|*彈幕快躲*|
 |186123|快跑，精炼混乱点你|Wrought Chaos on you, run|*快跑，型塑混沌*|
 |186333|快进火焰|run into the fire|*快去踩火*|
@@ -226,11 +225,11 @@
 |gathershare|集合分担|share the damage|*集合分攤*|
 |getboned|||快拿骨甲|
 |ghostsoon|||準備靈魂|
-|group1|第一組準備||*一組準備*|
-|group2|第二組準備||*二組準備*|
-|group3|第三組準備||*三組準備*|
-|group4|第四組準備||*四組準備*|
-|group5|第五組準備||*五組準備*|
+|group1|第一組準備||*第一組準備囉*|
+|group2|第二組準備||*第二組準備囉*|
+|group3|第三組準備||*第三組準備囉*|
+|group4|第四組準備||*第四組準備囉*|
+|group5|第五組準備||*第五組準備囉*|
 |healall|注意群療||*注意群補*|
 |healfull|刷满血量|heal full|*補滿血量*|
 |helpdispel|幫忙驅散||*幫忙驅散*|
@@ -364,11 +363,19 @@
   <summary>2017/12/28以後更新與修正</summary>
   <p>
    
+12/28
+
 | File name | zhCN (Yike) | enUS (Demo) | zhTW (Yun) |
 |------|------|------|------|
 |pfive|五阶段准备|phase five|準備第五階段|
 |attackshield|攻击护盾|attack shield|攻擊護盾|
 |mm2|靠近大饼|move to Circle|*靠近圈圈*|
+
+1/27
+
+| File name | zhCN (Yike) | enUS (Demo) | zhTW (Yun) |
+|------|------|------|------|
+|185014|快跑，聚焦混乱点你|Focused Chaos on you, run|*快跑，聚集混沌*|
 
   </p>
 </details>
