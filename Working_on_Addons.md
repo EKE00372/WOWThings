@@ -5,7 +5,7 @@
 ## 協力
 
 * AltzUI
-    * 主要協力在WOWInterface收集用戶反饋，並代為更新
+    * 主要協力在WOWInterface收集用戶反饋，並代為上傳更新。
 * Bigwigs
     * 主要協力翻譯和資料收集，資料收集並不針對特定對象，可以查看[本項目的ReadMe](https://github.com/EKE00372/WOWThings/blob/master/README.md)。
 * ClassicCodex
@@ -21,7 +21,7 @@
 * Guidelime
     * zhTW/zhCN
 * Guidelime_Shiku
-	* zhTW/zhCN
+    * zhTW/zhCN
 * nPlates
     * zhTW/zhCN
 * KuiNameplates
@@ -39,7 +39,9 @@
 * RSPlates(Col)
     * zhTW/enUS
 * Nioro
+    * zhTW
 * EnhancedChatFilterMODFix
+    * zhTW
     * 覺得沒人用就把locale刪了，又給它加回來，哪天又刪了誰嚎一下......
 
 ## 維護
@@ -47,14 +49,20 @@
 * KeepIronskin
     * 酒僧的小工具
 * diminfo
+    * 訊息條
 
 ## 原作
 
 * EKPlates
+    * 名條
 * EKMinimap
+    * 小地圖
 * MooseLight
+    * 自動調整亮度
 * oUF_Ruri
+   * ouf的頭像和名條
 * oHWell
+    * **經典版**的自動下座騎、自動站立、快速取消變身
 
 ## 翻譯挖坑
 
@@ -64,5 +72,4 @@
      * 這是2011年就挖的坑
 * WCL
      * 這可有點難了......
-
 
