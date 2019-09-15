@@ -111,3 +111,5 @@
      * PitBull4
      * [RacipeRadarClassic](https://www.curseforge.com/wow/addons/recipe-radar-classic)
      * 某些已經完成70%以上的只要後續補完就可以了......
+* [GB/T 15834―2011标点符号用法]https://people.ubuntu.com/~happyaron/l10n/GB(T)15834-2011.html
+     * 備忘，畢竟不熟
