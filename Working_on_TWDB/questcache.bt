@@ -1,0 +1,155 @@
+//------------------------------------------------
+//--- 010 Editor v9.0.2 Binary Template
+//
+//      File: questcache.wdb
+//   Authors: FrostBlade
+//   Version: 1.0
+//   Purpose: 
+//  Category: 
+// File Mask: 
+//  ID Bytes: 
+//   History: 
+//------------------------------------------------
+typedef struct {
+    int ID;
+    int Length;
+    if (Length > 0)
+    {
+        int QuestID;
+        int QuestType;
+        int QuestLevel;                     // Recommended level to complete the quest
+        int Quest_UNK_27075;                // Unknown. Almost always 0, but sometimes 1, 3, or 5.
+        int QuestMaxScalingLevel;           // Maximum level that the quest reward and difficulty will scale to
+        int QuestPackageID;                 // FK to QuestPackageItem.db2
+        int QuestMinLevel;                  // Required level to pick up the quest
+        int QuestSortID;                    // When QuestSortID is greater than 0, FK to AreaTable.db2; otherwise, FK to QuestSort.db2
+        int QuestInfoID;                    // FK to QuestInfo.db2
+        int SuggestedGroupNum;
+        int RewardNextQuest;                // Next QuestID in the chain; sometimes blank when it shouldn't be because chains are often not linear and require multiple quests to continue at certain points
+        int RewardXPDifficulty;             // The column of QuestXp to use. Use Player Level as the ID if it is within the range of QuestMinLevel to QuestMaxScalingLevel, otherwise QuestLevel.
+        float RewardXPMultiplier;           // Multiplier applied to the value retrieved from the field above
+        int RewardMoney;                    // Precomputed final money value based on player level at the time of caching; not very useful unless you can ensure consistent player levels
+        int RewardMoneyDifficulty;          // The column of QuestMoneyReward to use. Use Player Level as the ID if it is within the range of QuestMinLevel to QuestMaxScalingLevel, otherwise QuestLevel.
+        float RewardMoneyMultiplier;        // Multiplier applied to the value retrieved from the field above
+        int RewardBonusMoney;               // Bonus money rewarded if completed at max level
+        int RewardDisplaySpell[3];
+        int RewardSpell;
+        int RewardHonor;                    // Amount of honor rewarded by the quest
+        float RewardHonorKill;              // Multiplier applied to honor rewarded by the quest (or to kills during it? unknown exactly)
+        int RewardArtifactXPDifficulty;     // The column of ArtifactQuestXp to use. Use Player Level as the ID if it is within the range of QuestMinLevel to QuestMaxScalingLevel, otherwise QuestLevel.
+        float RewardArtifactXPMultiplier;   // Multiplier applied to the value retrieved from the field above
+        int RewardArtifactCategoryID;
+        int ProvidedItem;                   // Item linked to the quest, usually destroying it will force the quest to abandon
+        uint Flags;
+        uint Flags2;
+        uint Flags3;                        // Only 95% sure about this, can confirm for sure when they add new flags in the future (values right now are always 0 or 2)
+        struct {
+            int ItemID;
+            int Quantity;
+        } RewardFixedItems[4];              // Rewards always given
+        struct {
+            int ItemID;
+            int Quantity;
+        } ItemDrop[4];                      // Rewards forced on the player outside the quest dialog(?); rarely used now
+        struct {
+            int ItemID;
+            int Quantity;
+            int DisplayID;
+        } RewardChoiceItems[6];             // Reward choices - player can pick one
+        int POIContinent;                   // Very rarely used these days as POIs are provided by a different system usually
+        float POIx;                         // Very rarely used these days as POIs are provided by a different system usually
+        float POIy;                         // Very rarely used these days as POIs are provided by a different system usually
+        int POIPriority;                    // Very rarely used these days as POIs are provided by a different system usually
+        int RewardTitle;                    // Very rarely used (mainly for TBC Isle of Quel'Danas money title); Blizzard prefers to reward titles from quests via RewardSpell these days instead
+        int RewardArenaPoints;              // Not used since TBC
+        int RewardSkillLineID;
+        int RewardNumSkillUps;
+        int PortraitGiverDisplayID;
+        int BFA_UnkDisplayID;               // Purpose of the field is unknown and it is used significantly less often than the fields around it, but it appears to also be a CreatureDisplayInfoID
+        int PortraitTurnInDisplayID;
+        struct {
+            int FactionID;
+            int FactionValue;               // The column of QuestFactionReward to use
+            int FactionOverride;            // An override used when Blizzard wants to reward a non-standard amount of reputation, like '1500' or '3000'
+            int FactionGainMaxRank;         // The reputation threshold where you stop being able to apply the reputation reward. For example, '7' means that the rep counts all the way through Exalted.
+        } RewardFaction[5];
+        int RewardFactionFlags;
+        struct {
+            int CurrencyID;
+            int Quantity;
+        } RewardCurrency[4];
+        int AcceptedSoundKitID;
+        int CompleteSoundKitID;
+        int AreaGroupID;
+        int TimeAllowed;
+        int NumObjectives;
+        uint64 RaceFlags;
+        uint QuestRewardID;
+        uint ExpansionID;
+
+        BitfieldDisablePadding();
+        BitfieldLeftToRight();
+        uint LogTitleLength : 9;
+        uint LogDescriptionLength : 12;
+        uint QuestDescriptionLength : 12;
+        uint AreaDescriptionLength : 9;
+        uint PortraitGiverTextLength : 10;
+        uint PortraitGiverNameLength : 8;
+        uint PortraitTurnInTextLength : 10;
+        uint PortraitTurnInNameLength : 8;
+        uint QuestCompletionLogLength : 11;
+        BitfieldEnablePadding();
+
+        struct
+        {
+            int ID;
+            ubyte Type;
+            byte StorageIndex;
+            int ObjectID;
+            int Amount;
+            int Flags;
+            int Flags2;
+            float PercentAmount;
+            int NumVisualEffects;
+            int VisualEffects[NumVisualEffects];
+            ubyte DescriptionLength;
+            char Description[DescriptionLength];
+        } Objectives[NumObjectives] <optimize=false>;
+
+        char LogTitle[LogTitleLength];
+        char LogDescription[LogDescriptionLength];
+        char QuestDescription[QuestDescriptionLength];
+        char AreaDescription[AreaDescriptionLength];
+        char PortraitGiverText[PortraitGiverTextLength];
+        char PortraitGiverName[PortraitGiverNameLength];
+        char PortraitTurnInText[PortraitTurnInTextLength];
+        char PortraitTurnInName[PortraitTurnInNameLength];
+        char QuestCompletionLog[QuestCompletionLogLength];
+    }
+} QuestCacheRow;
+
+typedef struct{
+	char Signature[4];
+	uint ClientVersion;
+	char Language[4];
+	uint RecordSize;
+	uint RecordVersion;
+	uint CacheVersion;
+
+} QuestCacheHeader;
+
+
+typedef struct{
+	SetBackColor( cLtPurple );
+	QuestCacheHeader header;
+	SetBackColor( cLtRed );
+
+   	while( !FEof())
+	{
+	    QuestCacheRow row;
+	}
+
+} QuestCache;
+
+LittleEndian(); 
+QuestCache qcache;
