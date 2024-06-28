@@ -1,11 +1,6 @@
 # Working on Addons
 
-這個列表是給自己的工作做個紀錄，免得忘記後續完善工作。
-
-<details>
-  <summary>無關的碎碎唸</summary>
-  讓官方版本有完整的中文化可用，從而杜絕圈養行為，一個已經15年的遊戲現在才來說這個其實有點晚了。很久以前弄過一些插件的翻譯，後來~~太懶了~~停止了大部份工作，只修復錯漏或機翻。最近拾起來是因為經典版帶起一波新插件的誕生潮，然後又看見某圈養用戶的簡體翻譯**逮著機會就嘲諷zhTW**，僅管他明知道有些機翻是外文作者因為翻譯人員短缺自己扔goolgle翻譯做的。
-</details>
+工作紀錄，避免忘記有改過什麼插件
 
 ## 翻譯
 
@@ -65,7 +60,7 @@
 * ~~KeepIronskin~~：BFA 酒僧小工具
 * ~~diminfo~~：訊息條，已重寫為 Kiminfo
 
-## 原作
+## 插件
 
 * ~~EKPlates：名條~~已停更
 * EKMinimap：小地圖與追蹤框
@@ -78,7 +73,7 @@
 
 * [wago.io](https://github.com/oratory/wago.io/issues/52)
 * ~~TradeSkillMaster~~
-* WCL
+* ~~WCL~~
 * zhTW本地化的外部備份
      * Unit/Object/QuestName/QuestLog/Item這些東西的本地化清單
      * 芒果單機的清單不完整，而且與經典版不同的詞條相當多
