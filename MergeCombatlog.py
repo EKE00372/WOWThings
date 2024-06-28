@@ -19,7 +19,7 @@ def merge_txt_files_in_directory():
     output_file_name = f"{os.path.splitext(first_file_name)[0]}-merge.txt"
     output_file = os.path.join(current_directory, output_file_name)
 
-    # 打开输出文件以写入模式
+    # 打開檔案，輸出編碼設定為utf-8
     with open(output_file, 'w', encoding='utf-8') as outfile:
         # 遍歷文本內容，以將其寫入輸出檔
         for file_name in file_names:
