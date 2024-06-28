@@ -1,48 +1,48 @@
-﻿ui_id,name,update_time,descript
-7386,!!NoTaint2,2022/11/21 11:00,Reduce the chance that 3rd-party addons taints the Blizzard Globals/UIDropDownMenu/StaticPopups. To show less ACTION_BLOCKED warnings.
-10236,[经典旧世]!NoFlash,2022/11/3 13:42,Disables the annoying flashing on your taskbar
-10237,!NoFlash,2022/11/3 13:42,Disables the annoying flashing on your taskbar
-16052,[怀旧服]!Pig_Business,2023/10/20 1:01,"Commercial enhancements, including auction enhancements, Sales Assistant, offline item viewing"
-16051,[经典旧世]!Pig_Business,2023/10/20 1:01,"Commercial enhancements, including auction enhancements, Sales Assistant, offline item viewing"
-16050,!Pig_Business,2023/10/20 1:01,"Commercial enhancements, including auction enhancements, Sales Assistant, offline item viewing"
-17259,!Pig_Farm,2024/4/27 2:00,farm record
-17260,[经典旧世]!Pig_Farm,2024/4/27 2:00,farm record
-17261,[怀旧服]!Pig_Farm,2024/4/27 2:00,farm record
-16055,[怀旧服]!Pig_GDKP,2024/5/18 21:01,"GDKP Assistant features, including loot record, quick auction/bid, rewards/fine record, sub-G assistant"
-16054,[经典旧世]!Pig_GDKP,2024/5/18 21:01,"GDKP Assistant features, including loot record, quick auction/bid, rewards/fine record, sub-G assistant"
-16053,!Pig_GDKP,2024/5/18 21:01,"GDKP Assistant features, including loot record, quick auction/bid, rewards/fine record, sub-G assistant"
-16059,[怀旧服]!Pig_Tardis,2024/5/13 18:00,"Invite enhancement. Group info, Layer info, Convenient shout function (support automatic invitation reply)"
-16058,[经典旧世]!Pig_Tardis,2024/5/13 18:00,"Invite enhancement. Group info, Layer info, Convenient shout function (support automatic invitation reply)"
-16057,!Pig_Tardis,2024/5/13 18:00,"Invite enhancement. Group info, Layer info, Convenient shout function (support automatic invitation reply)"
+ui_id,name,update_time,descript
+7386,!!NoTaint2,2022/11/21 11:00,减少第三方插件对 Blizzard Globals/UIDropDownMenu/StaticPopups 暴雪原生代码的污染，减少 ACTION_BLOCKED 提示。
+10236,[经典旧世]!NoFlash,2022/11/3 13:42,关闭任务栏闪烁。
+10237,!NoFlash,2022/11/3 13:42,关闭任务栏闪烁。
+16052,[怀旧服]!Pig_Business,2023/10/20 1:01,!Pig 模块，商业功能增强。
+16051,[经典旧世]!Pig_Business,2023/10/20 1:01,!Pig 模块，商业功能增强。
+16050,!Pig_Business,2023/10/20 1:01,!Pig 模块，商业功能增强。
+17259,!Pig_Farm,2024/4/27 2:00,!Pig 模块，伐木纪录。
+17260,[经典旧世]!Pig_Farm,2024/4/27 2:00,!Pig 模块，伐木纪录。
+17261,[怀旧服]!Pig_Farm,2024/4/27 2:00,!Pig 模块，伐木纪录。
+16055,[怀旧服]!Pig_GDKP,2024/5/18 21:01,!Pig 模块，金团助手。
+16054,[经典旧世]!Pig_GDKP,2024/5/18 21:01,!Pig 模块，金团助手。
+16053,!Pig_GDKP,2024/5/18 21:01,!Pig 模块，金团助手。
+16059,[怀旧服]!Pig_Tardis,2024/5/13 18:00,!Pig 模块，位面助手。
+16058,[经典旧世]!Pig_Tardis,2024/5/13 18:00,!Pig 模块，位面助手。
+16057,!Pig_Tardis,2024/5/13 18:00,!Pig 模块，位面助手。
 3879,[怀旧服]!Pig：金团与带本助手,2024/5/20 1:03,金团与带本助手，有丰富的功能，纪录金团拍卖装备、金额记帐、带本次数、爆本计时、按等级设置收费、自动结算金额等等。
 3880,[经典旧世]!Pig：金团与带本助手,2024/5/20 1:03,金团与带本助手，有丰富的功能，纪录金团拍卖装备、金额记帐、带本次数、爆本计时、按等级设置收费、自动结算金额等等。
 4176,!Pig：金团与带本助手,2024/5/20 1:02,金团与带本助手，有丰富的功能，纪录金团拍卖装备、金额记帐、带本次数、爆本计时、按等级设置收费、自动结算金额等等。
 13232,!QuestItemButtonFix,2022/11/3 16:37,!QuestItemButtonFix
 12534,!SyLevel,2022/11/3 15:56,!SyLevel is a lightweight addon which displays item level text on your item slots.
-11505,"""Dead"" Effect",2022/11/3 14:55,Plays a sound effect when a focused target dies
+11505,"""Dead"" Effect",2022/11/3 14:55,当焦点目标死亡时播放音效。
 11765,"""Out-of-combat Do"" macro button",2022/11/3 15:11,A helper to use dynamic macros out-of-combat
-14337,[怀旧服]#Shitlist,2023/12/14 17:00,Set personal note on a player and display it in tooltip info
-8798,[经典旧世]#Shitlist,2023/12/14 17:00,Set personal note on a player and display it in tooltip info
-8797,#Shitlist,2023/12/14 17:00,Set personal note on a player and display it in tooltip info
+14337,[怀旧服]#Shitlist,2023/12/14 17:00,游戏内的小本本，使你可以替玩家添加备注，鼠标指向该玩家时，会在鼠标提示上显示备注。
+8798,[经典旧世]#Shitlist,2023/12/14 17:00,游戏内的小本本，使你可以替玩家添加备注，鼠标指向该玩家时，会在鼠标提示上显示备注。
+8797,#Shitlist,2023/12/14 17:00,游戏内的小本本，使你可以替玩家添加备注，鼠标指向该玩家时，会在鼠标提示上显示备注。
 10650,$old!it,2022/11/3 14:06,Celebrates you with an olympic cheer and print-to-screen when your auction item sells!
 11731,$old!it in Cash,2022/11/3 15:09,Notifies you with a cash register Ka-Ching! and a salute to screen when your auction item sells.
 8054,[经典旧世](Classic) Maekor Overpower Alert,2022/11/3 11:28,Alerts the warrior when overpower is available (regardless of what stance you're in)
-9839,(D) Auto Reset Instance,2022/11/3 13:17,(D) Auto Reset Instance
-4044,(D) Broker Currencies Battle of Azeroth,2022/6/17 16:54,Data Broker Currency Tracker for Battle of Azeroth
-4043,(D) Broker Currencies Burning Crusade,2023/12/28 6:31,Data Broker Currency Tracker for The Burning Crusade
-4042,(D) Broker Currencies Cataclysm,2023/12/28 6:33,Data Broker Currency Tracker for Cataclysm
-4041,(D) Broker Currencies Legion,2023/12/28 6:29,Data Broker Currency Tracker for Legion
-4040,(D) Broker Currencies Mists of Pandaria,2023/12/28 6:25,Data Broker Currency Tracker for Mists of Pandaria
-4039,(D) Broker Currencies Shadowlands,2023/12/28 6:28,Data Broker Currency Tracker for Shadowlands
-4045,(D) Broker Currencies Warlords of Draenor,2023/12/28 6:27,Data Broker Currency Tracker for Warlords of Draenor
-6172,(D) Broker Currency Plus,2022/6/17 16:53,Data Broker - Unlimited Currency Tracker
-6171,(D) Broker Durability Plus,2022/6/17 16:53,Data Broker Durability Display and extra features
-4038,(D) Broker Volume,2023/1/19 1:13,Data Broker - Audio Options Sound Panel Control
-8786,(D) Hide Gryphons,2022/11/3 12:14,Gryphon Remover
-8787,[经典旧世](D) Hide Gryphons,2022/11/3 12:14,Gryphon Remover
+9839,(D) Auto Reset Instance,2022/11/3 13:17,自动重置副本。
+4044,(D) Broker Currencies Battle of Azeroth,2022/6/17 16:54,Data Broker 模块，追踪争霸艾泽拉斯的货币。
+4043,(D) Broker Currencies Burning Crusade,2023/12/28 6:31,Data Broker 模块，追踪燃烧的远征的货币。
+4042,(D) Broker Currencies Cataclysm,2023/12/28 6:33,Data Broker 模块，追踪大地的裂变的货币。
+4041,(D) Broker Currencies Legion,2023/12/28 6:29,Data Broker 模块，追踪军团再临的货币。
+4040,(D) Broker Currencies Mists of Pandaria,2023/12/28 6:25,Data Broker 模块，追踪潘达利亚的货币。
+4039,(D) Broker Currencies Shadowlands,2023/12/28 6:28,Data Broker 模块，追踪暗影国度的货币。
+4045,(D) Broker Currencies Warlords of Draenor,2023/12/28 6:27,Data Broker 模块，追踪德拉诺之王的货币。
+6172,(D) Broker Currency Plus,2022/6/17 16:53,Data Broker 模块，追踪各种兑换通货。
+6171,(D) Broker Durability Plus,2022/6/17 16:53,Data Broker 模块，追踪装备耐久度。
+4038,(D) Broker Volume,2023/1/19 1:13,Data Broker 模块，添加音效控制面板。
+8786,(D) Hide Gryphons,2022/11/3 12:14,移除动作条左右两侧狮鹫。
+8787,[经典旧世](D) Hide Gryphons,2022/11/3 12:14,移除动作条左右两侧狮鹫。
 16615,[经典旧世](RestedXP) Custom PaschidGuideFR,2024/2/7 16:00,Guide for gold lvl25
-14429,- AutoCombatLogging -,2023/1/31 1:11,Log combats automatically
-16110,[V] - Deathtracker,2024/1/18 20:00,Automatically play a sound when an arena enemy dies.
+14429,- AutoCombatLogging -,2023/1/31 1:11,地城、团队副本和pvp时自动开启战斗纪录。
+16110,[V] - Deathtracker,2024/1/18 20:00,在竞技场时，敌方死亡自动播放音效。
 11543,[MEC's] - Nethershards Plugin,2022/11/3 14:57,a simple ldb plugin for Nethershards
 16396,[V] - THXSumm,2024/1/18 20:00,Say THANKS if someone summoned you!
 11542,[MEC's] - Timewarped Badges plugin,2022/11/3 14:57,broker plugin for Timewarped badges
@@ -89,7 +89,6 @@
 9142,ACE3 GUI Panel Widget,2022/11/3 12:38,A selectable Panel Container for use with ACE3 GUI
 9143,[经典旧世]ACE3 GUI Panel Widget,2022/11/3 12:38,A selectable Panel Container for use with ACE3 GUI
 533,ACE3：插件函数库,2024/5/8 8:03,ACE3库以及其他的函数库是目前大多数插件必备的内置库，ACE3库集成了魔兽世界插件中经常用到功能的和函数，极大方便了插件作者提高开发效率。
-15139,[怀旧服]ACP-Wrath,2023/4/20 1:11,Addon Control Panel for WotLK Classic
 12060,ACalc - An RPN Calculator,2022/11/3 15:28,ACalc - An RPN Calculator
 12051,AClock - A UTC Date/Timestamp,2022/11/3 15:27,AClock - A UTC Date/Timestamp
 14840,[怀旧服]AEmotes - DrWho Sound Pack from Holyfrey,2023/4/24 1:10,DrWho Sound Pack to AEmote from Holyfrey
@@ -329,26 +328,25 @@
 2127,[怀旧服] AddOnSkins：TUK系整合专用插件美化,2023/12/28 4:17,Elvui和Tukui家族的衍生插件，支援与其风格统一的各种插件皮肤。请注意：依赖Elvui或Tukui
 2126,[经典旧世] AddOnSkins：TUK系整合专用插件美化,2023/12/28 4:17,Elvui和Tukui家族的衍生插件，支援与其风格统一的各种插件皮肤。请注意：依赖Elvui或Tukui
 936,AddOnSkins：TUK系整合专用插件美化,2023/12/28 4:17,Elvui和Tukui家族的衍生插件，支援与其风格统一的各种插件皮肤。请注意：依赖Elvui或Tukui
-6560,AddOns CPU Usage,2024/5/9 4:15,Show how much your addons are using the CPU.
-4084,AddUI,2024/5/11 2:00,A plug-in interface based on the integration of the original interface 一个基于原始界面整合的插件界面
-4083,[怀旧服]AddUI,2024/4/4 18:00,A plug-in interface based on the integration of the original interface 一个基于原始界面整合的插件界面
-4082,[经典旧世]AddUI,2024/4/4 18:00,A plug-in interface based on the integration of the original interface 一个基于原始界面整合的插件界面
-7225,Additional Info,2023/7/27 0:01,Adds extra infos to the tooltip
-15230,[怀旧服]Addon Control Panel,2023/12/22 17:01,Adds an addon manager in game via the 'Addons' menu. Special support for multi-part addons. Based on rMCP by Rophy.
-9835,Addon Control Panel,2023/12/22 17:01,Adds an addon manager in game via the 'Addons' menu. Special support for multi-part addons. Based on rMCP by Rophy.
+6560,AddOns CPU Usage,2024/5/9 4:15,显示插件的 CPU 占用比例。
+4084,AddUI,2024/5/11 2:00, 一个基于原始界面的整合插件。
+4083,[怀旧服]AddUI,2024/4/4 18:00, 一个基于原始界面的整合插件。
+4082,[经典旧世]AddUI,2024/4/4 18:00, 一个基于原始界面的整合插件。
+7225,Additional Info,2023/7/27 0:01,在鼠标提示增加一些额外信息。
+15230,[怀旧服]Addon Control Panel（ACP）：插件控制台,2023/12/22 17:01,插件控制台，可以在游戏内开启或禁用插件，并且为插件保留不同的开启配置，适合在不同的场合使用，降低插件占用内存。
+9835,Addon Control Panel（ACP）：插件控制台,2023/12/22 17:01,插件控制台，可以在游戏内开启或禁用插件，并且为插件保留不同的开启配置，适合在不同的场合使用，降低插件占用内存。
 13863,Addon Control Panel LoadoutReminder,2022/11/28 19:00,LoadoutReminder lets you choose addon loadouts created with BetterAddonList for certain instance types like dungeon / raid / pvp
-3826,[燃烧远征]Addon Control Panel.BCC,2022/6/17 17:03,Addon Control Panel BCC Update.
-1245,[经典旧世] Addon Control Panel（ACP）：插件控制台,2023/12/22 17:01,
-13469,Addon Manager,2022/11/3 16:51,Simple and easy to use Addon Manager
+1245,[经典旧世] Addon Control Panel（ACP）：插件控制台,2023/12/22 17:01,插件控制台，可以在游戏内开启或禁用插件，并且为插件保留不同的开启配置，适合在不同的场合使用，降低插件占用内存。
+13469,Addon Manager,2022/11/3 16:51,简易插件控制台。
 17045,[怀旧服]Addon Template,2024/5/15 11:01,An addon template
 17044,[经典旧世]Addon Template,2024/5/15 11:01,An addon template
 17043,Addon Template,2024/5/15 11:01,An addon template
-4487,[怀旧服]Addon Usage,2024/5/8 9:04,Compares the relative memory and cpu usage of running addons
-5755,[经典旧世]Addon Usage,2024/5/8 9:04,Compares the relative memory and cpu usage of running addons
-5521,Addon Usage：插件资原占用统计,2024/5/8 9:04,统计插件的内存与cpu占用。
-7399,[怀旧服]AddonLocale,2024/5/7 23:03,Provides an opt-in override for the client locale that can be used by supporting addons.
-7398,[经典旧世]AddonLocale,2024/5/7 23:03,Provides an opt-in override for the client locale that can be used by supporting addons.
-7397,AddonLocale,2024/5/7 23:03,Provides an opt-in override for the client locale that can be used by supporting addons.
+4487,[怀旧服]Addon Usage,2024/5/8 9:04,统计插件的内存占用与 CPU 资源耗用比例。
+5755,[经典旧世]Addon Usage,2024/5/8 9:04,统计插件的内存占用与 CPU 资源耗用比例。
+5521,Addon Usage：插件资原占用统计,2024/5/8 9:04,统计插件的内存占用与 CPU 资源耗用比例。
+7399,[怀旧服]AddonLocale,2024/5/7 23:03,使你可以忽略客户端语系，直接指定插件调用的本地化语系。
+7398,[经典旧世]AddonLocale,2024/5/7 23:03,使你可以忽略客户端语系，直接指定插件调用的本地化语系。
+7397,AddonLocale,2024/5/7 23:03,使你可以忽略客户端语系，直接指定插件调用的本地化语系。
 5675,[怀旧服]AddonProfiles,2024/5/19 19:00,Allows easy saving and restoring of lists of enabled addons.
 5674,[经典旧世]AddonProfiles,2024/5/19 19:00,Allows easy saving and restoring of lists of enabled addons.
 5673,AddonProfiles,2024/5/19 19:00,Allows easy saving and restoring of lists of enabled addons.
@@ -896,7 +894,7 @@
 8331,ArwicAltManager,2022/11/3 11:44,Alt manager for World of Warcraft
 11097,Arx Armory,2022/11/3 14:32,Your target's worldofwarcraft.com or wowhead.com page with one click
 12261,AscendanceTimer,2023/12/28 6:26,Displays a reliable cooldown timer for the Shaman Ascendance ability
-6189,Ascu SharedMedia & BigWigs Countdown,2023/1/30 9:00,Custom voicelines for Weakauras and BigWigs
+6189,Ascu SharedMedia & BigWigs Countdown,2023/1/30 9:00,Weakauras 和 BigWigs 的材质语音包
 14261,Asgard Death Counter,2022/12/14 13:00,"Count how many times you died, and how long you were alive for."
 3871,[怀旧服]AshToAsh,2024/5/11 2:02,A combat re-layoutable raid panel
 3872,[经典旧世]AshToAsh,2024/5/11 2:02,A combat re-layoutable raid panel
@@ -1953,56 +1951,56 @@
 11346,BigLibTimer,2022/11/3 14:46,This is a timer library originally created for the SpellFlash addon.
 10884,BigSay,2022/11/3 14:19,BigSay by T.G.(farmer1992@gmail.com)
 7967,[经典旧世]BigWho Library Suite,2022/11/3 11:23,"Keeps track of anyone or any guild seen, past or present."
-15092,[怀旧服]BigWigs Bossmods,2023/4/20 4:10,"Modular, lightweight, non-intrusive approach to boss encounter warnings. The efficiently coded alternative to Deadly Boss Mods (DBM) for spell & ability timers."
-15093,[经典旧世]BigWigs Bossmods,2023/4/19 1:25,"Modular, lightweight, non-intrusive approach to boss encounter warnings. The efficiently coded alternative to Deadly Boss Mods (DBM) for spell & ability timers."
-15094,BigWigs Bossmods,2023/4/19 1:25,"Modular, lightweight, non-intrusive approach to boss encounter warnings. The efficiently coded alternative to Deadly Boss Mods (DBM) for spell & ability timers."
-10643,BigWigs Countdown Arnold Schwarzenegger,2022/11/3 14:05,This small plugin give you the ability to have Arnold Schwarzenegger countdown before boss fights!
-5972,BigWigs Countdown Bread Edition,2024/5/8 15:00,My guilds raid leaders voice as a countdown
-10642,BigWigs Countdown Eminem,2022/11/3 14:05,"Eminem pull contdown, whats more to like?"
+15092,[怀旧服]BigWigs Bossmods：团队首领警报,2023/4/20 4:10,老牌首领报警插件，注意：此为主模块，仅包含当前资料片的团队副本，需要五人地城模块请下载LittleWigs。
+15093,[经典旧世]BigWigs Bossmods：团队首领警报,2023/4/19 1:25,老牌首领报警插件，注意：此为主模块，仅包含当前资料片的团队副本，需要五人地城模块请下载LittleWigs。
+15094,BigWigs Bossmods：团队首领警报,2023/4/19 1:25,老牌首领报警插件，注意：此为主模块，仅包含当前资料片的团队副本，需要五人地城模块请下载LittleWigs。
+10643,BigWigs Countdown Arnold Schwarzenegger,2022/11/3 14:05,BigWigs 模块，阿诺施瓦辛格倒数语音。
+5972,BigWigs Countdown Bread Edition,2024/5/8 15:00,BigWigs 模块，Bread 公会倒数语音。
+10642,BigWigs Countdown Eminem,2022/11/3 14:05,BigWigs 模块，阿姆倒数语音。
 8213,BigWigs Countdown TBD,2022/11/3 11:37,Another BigWigs Countdown Voice
 10641,BigWigs Countdown Unreal Tournament,2022/11/3 14:05,Compilation of Unreal Tournament countdown sounds
-9499,BigWigs Korean Voice Pack,2022/11/3 12:58,BigWigs 한국어 음성팩
-3582,BigWigs Voice (DE),2023/11/27 3:00,BigWigs Voice (DE)
-3581,BigWigs Voice (ES),2023/11/27 3:00,BigWigs Voice (ES)
-3580,BigWigs Voice (FR),2023/11/27 3:00,BigWigs Voice (FR)
-7289,[怀旧服]BigWigs Voice (KR),2024/5/1 9:02,A plugin for BigWigs that will play Text-To-Speech sounds for boss abilities in Korean.
-7288,[经典旧世]BigWigs Voice (KR),2024/5/1 9:02,A plugin for BigWigs that will play Text-To-Speech sounds for boss abilities in Korean.
-1607,BigWigs Voice (KR),2024/5/1 9:02,A plugin for BigWigs that will play Text-To-Speech sounds for boss abilities in Korean.
-3590,BigWigs Voice (RU),2023/11/27 3:00,BigWigs Voice (RU)
-17094,[怀旧服]BigWigs Voice GCP (EN),2024/5/8 12:04,BigWigs extension with studio-quality voice alerts via Google Cloud Text-To-Speech.
-17093,[经典旧世]BigWigs Voice GCP (EN),2024/5/8 12:04,BigWigs extension with studio-quality voice alerts via Google Cloud Text-To-Speech.
-15420,BigWigs Voice GCP (EN),2024/5/8 11:06,A plugin for BigWigs that will play Text-To-Speech sounds for boss abilities generated with GCP.
+9499,BigWigs Korean Voice Pack,2022/11/3 12:58,BigWigs 模块，韩语语音包。
+3582,BigWigs Voice (DE),2023/11/27 3:00,BigWigs 模块，德语语音包。
+3581,BigWigs Voice (ES),2023/11/27 3:00,BigWigs 模块，西语语音包。
+3580,BigWigs Voice (FR),2023/11/27 3:00,BigWigs 模块，法语语音包。
+7289,[怀旧服]BigWigs Voice (KR),2024/5/1 9:02,BigWigs 模块，韩语语音包。
+7288,[经典旧世]BigWigs Voice (KR),2024/5/1 9:02,BigWigs 模块，韩语语音包。
+1607,BigWigs Voice (KR),2024/5/1 9:02,BigWigs 模块，韩语语音包。
+3590,BigWigs Voice (RU),2023/11/27 3:00,BigWigs 模块，俄语语音包。
+17094,[怀旧服]BigWigs Voice GCP (EN),2024/5/8 12:04,BigWigs 模块，英语  Google Cloud Text-To-Speech 语音包。
+17093,[经典旧世]BigWigs Voice GCP (EN),2024/5/8 12:04,BigWigs 模块，英语  Google Cloud Text-To-Speech 语音包。
+15420,BigWigs Voice GCP (EN),2024/5/8 11:06,BigWigs 模块，英语  Google Cloud Text-To-Speech 语音包。
 4497,BigWigs Voice Natural,2021/12/10 11:00,A natural sounding voice pack for BigWigs
-15418,BigWigs Voice(CN)-Yoda,2024/5/8 12:04,BigWigs_Voice_CN_Yoda
-15461,BigWigs Voice(CN)-Yoda(Healer),2024/5/8 12:04,BigWigs voicepack healer version
-17212,[经典旧世]BigWigs Voice(CN)-Yoda(Healer),2024/4/20 12:00,BigWigs voicepack healer version
-17213,[怀旧服]BigWigs Voice(CN)-Yoda(Healer),2024/4/20 12:00,BigWigs voicepack healer version
-15460,BigWigs Voice(CN)-Yoda(Tank),2024/5/8 12:04,BigWigs voicepack tank version
-17211,[怀旧服]BigWigs Voice(CN)-Yoda(Tank),2024/4/21 19:00,BigWigs voicepack tank version
-17210,[经典旧世]BigWigs Voice(CN)-Yoda(Tank),2024/4/21 19:00,BigWigs voicepack tank version
-17215,[怀旧服]BigWigs Voice(CN)-Yoda(dps),2024/4/21 19:00,BigWigs_Voice_CN_Yoda
-17214,[经典旧世]BigWigs Voice(CN)-Yoda(dps),2024/4/21 19:00,BigWigs_Voice_CN_Yoda
+15418,BigWigs Voice(CN)-Yoda,2024/5/8 12:04,BigWigs 模块，中文 Yoda 语音包。
+15461,BigWigs Voice(CN)-Yoda(Healer),2024/5/8 12:04,BigWigs 模块，中文 Yoda 治疗语音包。
+17212,[经典旧世]BigWigs Voice(CN)-Yoda(Healer),2024/4/20 12:00,BigWigs 模块，中文 Yoda 治疗语音包。
+17213,[怀旧服]BigWigs Voice(CN)-Yoda(Healer),2024/4/20 12:00,BigWigs 模块，中文 Yoda 治疗语音包。
+15460,BigWigs Voice(CN)-Yoda(Tank),2024/5/8 12:04,BigWigs 模块，中文 Yoda 坦克语音包。
+17211,[怀旧服]BigWigs Voice(CN)-Yoda(Tank),2024/4/21 19:00,BigWigs 模块，中文 Yoda 坦克语音包。
+17210,[经典旧世]BigWigs Voice(CN)-Yoda(Tank),2024/4/21 19:00,BigWigs 模块，中文 Yoda 坦克语音包。
+17215,[怀旧服]BigWigs Voice(CN)-Yoda(dps),2024/4/21 19:00,BigWigs 模块，中文 Yoda 输出语音包。
+17214,[经典旧世]BigWigs Voice(CN)-Yoda(dps),2024/4/21 19:00,BigWigs 模块，中文 Yoda 输出语音包。
 14320,BigWigs Voicepack Vulpera by WoweePaw,2023/11/9 23:00,Vulpera/Fox-ish Voicepack for BigWigs
 12401,BigWigs_Achievements,2022/11/3 15:48,Adds achievement reminders to BigWigs
 11237,BigWigs_AutoReply2,2022/11/3 14:40,3rd party module for BigWigs that replicates the auto reply functionality found in Deadly Boss Mods.
 1386,BigWigs_BattleForAzeroth：争霸艾泽拉斯模块,2024/5/9 5:01,BigWigs 的 BFA 团队副本模块。
 12630,BigWigs_BlackhandAssist,2022/11/3 16:01,"Assistace for Blackhand (Mortar warning in P2, custom says for bombs and marks in P3)"
-15719,[怀旧服]BigWigs_BurningCrusade,2024/5/9 4:11,A collection of BigWigs modules from the Burning Crusade era.
-1067,BigWigs_BurningCrusade：燃烧的远征模块,2024/5/9 4:11,BigWigs 正式服的 TBC 团队副本模块。
+15719,[怀旧服]BigWigs_BurningCrusade,2024/5/9 4:11,BigWigs 的 TBC 团队副本模块。
+1067,BigWigs_BurningCrusade：燃烧的远征模块,2024/5/9 4:11,BigWigs 的 TBC 团队副本模块。
 17307,[怀旧服]BigWigs_Cataclysm - The Cataclysm content pack for BigWigs,2024/5/17 9:02,A collection of BigWigs modules from the Cataclysm era.
 1384,BigWigs_Cataclysm：大地的裂变模块,2024/5/17 9:02,BigWigs 的 CATA 团队副本模块。
 15720,[怀旧服]BigWigs_Classic,2024/5/21 12:00,A collection of BigWigs modules from the Classic era.
 5053,BigWigs_Classic,2024/5/21 12:00,A collection of BigWigs modules from the Classic era.
 3172,BigWigs_Classic：经典旧世模块,2024/5/21 12:00,此为 BigWigs 正式服版本的经典旧世团队副本模块，怀旧服请勿使用。
-5733,[燃烧远征]BigWigs_CommonAuras,2022/6/17 13:43,Notifies you about common raid cooldowns.
+5733,[燃烧远征]BigWigs_CommonAuras,2022/6/17 13:43,以BigWigs的功能监控团队技能，并以计时条显示冷却时间与持续时间。
 1039,BigWigs_CommonAuras：团队光环监控,2024/5/9 4:07,以BigWigs的功能监控团队技能，并以计时条显示冷却时间与持续时间。
-1861,[怀旧服]BigWigs_Countdown_HeroesOfTheStorm,2024/5/9 4:08,Adds countdown voices from Heroes of the Storm to BigWigs for all supported locales.
-1860,[经典旧世]BigWigs_Countdown_HeroesOfTheStorm,2024/5/9 4:07,Adds countdown voices from Heroes of the Storm to BigWigs for all supported locales.
-1862,BigWigs_Countdown_HeroesOfTheStorm,2024/5/9 4:07,Adds countdown voices from Heroes of the Storm to BigWigs for all supported locales.
+1861,[怀旧服]BigWigs_Countdown_HeroesOfTheStorm,2024/5/9 4:08,BigWigs 模块，添加风暴英雄倒数计时。
+1860,[经典旧世]BigWigs_Countdown_HeroesOfTheStorm,2024/5/9 4:07,BigWigs 模块，添加风暴英雄倒数计时。
+1862,BigWigs_Countdown_HeroesOfTheStorm,2024/5/9 4:07,BigWigs 模块，添加风暴英雄倒数计时。
 7754,BigWigs_Countdown_KaosKatie,2022/11/3 11:06,New Voice For Countdown
-1858,[怀旧服]BigWigs_Countdown_Overwatch,2024/5/9 4:08,Adds countdown voices from the heroes in Overwatch to BigWigs.
-1857,[经典旧世]BigWigs_Countdown_Overwatch,2024/5/9 4:08,Adds countdown voices from the heroes in Overwatch to BigWigs.
-1859,BigWigs_Countdown_Overwatch,2024/5/9 4:08,Adds countdown voices from the heroes in Overwatch to BigWigs.
+1858,[怀旧服]BigWigs_Countdown_Overwatch,2024/5/9 4:08,BigWigs 模块，添加守望先锋倒数计时。
+1857,[经典旧世]BigWigs_Countdown_Overwatch,2024/5/9 4:08,BigWigs 模块，添加守望先锋倒数计时。
+1859,BigWigs_Countdown_Overwatch,2024/5/9 4:08,BigWigs 模块，添加守望先锋倒数计时。
 9364,BigWigs_Countdown_Sabinico,2022/11/3 12:50,Adds custom and funny voices by Sabinico to BigWigs.
 7559,[怀旧服]BigWigs_Countdown_Xiao8,2022/11/3 10:27,Bigwigs Voicepack of PSG.LGD.Xiao8
 15560,BigWigs_HalfBar,2023/7/10 1:12,100% Half-Bar skin for BigWigs
@@ -2012,31 +2010,30 @@
 13278,BigWigs_NezirIcePatch,2022/11/3 16:40,Adds a cooldown timer for Nezir's Ice Patch ability.
 9146,BigWigs_QC_Countdown,2022/11/3 12:39,Countdown with the voice of a man from Quebec
 14126,BigWigs_Shadowlands,2024/5/9 6:01,A collection of BigWigs modules from the Shadowlands era.
-8451,BigWigs_Style_Medi,2022/11/3 11:50,Style BigWigs
+8451,BigWigs_Style_Medi,2022/11/3 11:50,BigWigs 计时条美化。
 12204,BigWigs_ThogarLaneColors,2022/11/3 15:36,BigWigs_ThogarLaneColors
-1877,[怀旧服]BigWigs_Transcriptor,2024/5/9 4:10,Use BigWigs for pull/win/wipe detection to automatically start or stop Transcriptor logging.
-16839,[经典旧世]BigWigs_Transcriptor,2024/5/9 4:10,Use BigWigs for pull/win/wipe detection to automatically start or stop Transcriptor logging.
-1878,BigWigs_Transcriptor,2024/5/9 4:09,Use BigWigs for pull/win/wipe detection to automatically start or stop Transcriptor logging.
-16483,BigWigs_Voice_GYJ （ChineseMaMa）,2024/4/27 18:00,BigWigs_Voice_GYJ （ChineseMaMa）:This is Chinese Female Voice pack
-16488,BigWigs_Voice_GYJ （ChineseMeiMei）,2024/4/27 18:01,BigWigs_Voice_GYJ （Chinese ）：This is Chinese Female Voice pack
-17292,BigWigs_Voice_Gura,2024/5/1 1:14,Gawr Gura voice pack for Countdowns in Bigwigs
-16091,BigWigs_Voice_VV Chinese voicepack (VV重制版),2024/4/22 10:00,A Chinese female voice pack for Bigwigs. BW中文女声语音
-5774,BigWigs_Voice_Xiaobai,2022/6/17 13:49,"Bigwigs语音包，中文，空灵的萝莉音。 作者斗鱼主播罗小白，时刻陪你征战魔兽世界~ BigWigs voice pack, Female mandarin"
-1016,BigWigs_Voice：英文原版语音包,2024/5/9 4:10,BigWigs官方使用TTS合成人聲製作的英文語音包。
+1877,[怀旧服]BigWigs_Transcriptor,2024/5/9 4:10,BigWigs 模块，使 Transcriptor 可随著开怪自动纪录。
+16839,[经典旧世]BigWigs_Transcriptor,2024/5/9 4:10,BigWigs 模块，使 Transcriptor 可随著开怪自动纪录。
+1878,BigWigs_Transcriptor,2024/5/9 4:09,BigWigs 模块，使 Transcriptor 可随著开怪自动纪录。
+16483,BigWigs_Voice_GYJ （ChineseMaMa）,2024/4/27 18:00,BigWigs 模块，中文顾衣衿语音包。
+16488,BigWigs_Voice_GYJ （ChineseMeiMei）,2024/4/27 18:01,BigWigs 模块，中文顾衣衿语音包。
+17292,BigWigs_Voice_Gura,2024/5/1 1:14,BigWigs 模块，添加 Gawr Gura 倒数计时。 
+16091,BigWigs_Voice_VV Chinese voicepack (VV重制版),2024/4/22 10:00,BigWigs 模块，中文 VV 语音包。
+5774,BigWigs_Voice_Xiaobai,2022/6/17 13:49,BigWigs 模块，中文斗鱼主播罗小白语音包。
+1016,BigWigs_Voice：英文原版语音包,2024/5/9 4:10,BigWigs 模块，使用TTS合成人聲製作的英文語音包。
 1383,BigWigs_WarlordsOfDraenor：德拉诺之王模块,2024/5/9 4:08,BigWigs 的 WOD 团队副本模块。
-6975,[怀旧服]BigWigs_WrathOfTheLichKing,2024/5/9 4:10,A collection of BigWigs modules from the Wrath of the Lich King era.
-1385,BigWigs_WrathOfTheLichKing：巫妖王之怒模块,2024/5/9 4:10,"BigWigs 的 WLK 团队副本模块。
-"
+6975,[怀旧服]BigWigs_WrathOfTheLichKing,2024/5/9 4:10,BigWigs 的 WLK 团队副本模块。
+1385,BigWigs_WrathOfTheLichKing：巫妖王之怒模块,2024/5/9 4:10,BigWigs 的 WLK 团队副本模块。
 11970,BigWigs_YorsahjPriority,2022/11/3 15:23,Tells you which blob to kill at the Yor'sahj encounter in Dragon Soul.
 13,BigWigs：团队首领警报,2024/5/21 12:00,老牌首领报警插件，注意：此为主模块，仅包含当前资料片的团队副本，需要五人地城模块请下载LittleWigs。
-16911,[经典旧世]BigfootTag,2024/2/22 1:11,This addon changes the name of the Bigfoot world channel to a custom name
-16912,[怀旧服]BigfootTag,2024/2/22 1:11,This addon changes the name of the Bigfoot world channel to a custom name
-5069,Bigger Bag Checker,2024/5/7 23:01,"Adds tooltip info for drops needed for the ""Going to Need a Bigger Bag"" achievement"
-7284,Bigger Combo Points,2023/5/4 8:00,This addon will increase the size of the combo points at the personal resources
-14087,Bigger Health Bar - Qvantry Edit,2023/12/28 6:06,"The same as Bigger Health Bar, but it doesn't affect your Player Unit Frame if you're playing a healer."
-17436,Bigger Traveler's Log,2024/5/15 16:00,More Tasks fit into the Traveler's Log due to it being bigger
-7160,BiggerHealthBar - Bigger Health Bar,2024/3/26 7:00,rezises your health bar and covers the entire inner player frame
-13008,BiggerTradeskillUI,2022/11/3 16:25,Makes the default Tradeskill UI bigger to show more items and give easier access to the filters.
+16911,[经典旧世]BigfootTag,2024/2/22 1:11,"将大脚频道插件替换为自定频道名，默认替换为 ""酒馆""。"
+16912,[怀旧服]BigfootTag,2024/2/22 1:11,"将大脚频道插件替换为自定频道名，默认替换为 ""酒馆""。"
+5069,Bigger Bag Checker,2024/5/7 23:01,"在鼠标提示添加 ""需要一个大背包"" 成就追踪。"
+7284,Bigger Combo Points,2023/5/4 8:00,使个人资源条的个人资源（连击点）显示得更大。
+14087,Bigger Health Bar - Qvantry Edit,2023/12/28 6:06,使暴雪原生玩家头像的血量条更大。无法作用于治疗职业。
+17436,Bigger Traveler's Log,2024/5/15 16:00,更大的旅行日志界面。
+7160,BiggerHealthBar - Bigger Health Bar,2024/3/26 7:00,使暴雪原生玩家头像的血量条更大。
+13008,BiggerTradeskillUI,2022/11/3 16:25,更大的专业技能界面。
 5447,[经典旧世]Biggest Hits Tracker,2022/6/17 14:46,Tracks Last 5 Biggest Hits
 5448,[燃烧远征]Biggest Hits Tracker,2022/6/17 14:46,Tracks Last 5 Biggest Hits
 5480,Biggest Hits Tracker,2022/6/17 14:46,Tracks Last 5 Biggest Hits
@@ -3667,53 +3664,53 @@
 13133,DBCS_data_frFR,2022/11/3 16:32,DBCS_data_frFR
 13395,DBCS_model_viewer,2022/11/3 16:47,look all creature and animation
 11734,DBH - DBM Chronomatic Anomaly assist (Deadly Boss Mods),2022/11/3 15:09,Collection of changes to Deadly Boss Mods to assist the danish guild Danish Battle Hawks (DBH) in raiding
-736,DBM - Archaeology：考古模块,2024/5/7 14:06,当你在考古挖掘时，如果挖到了钥匙板，就会随机播放一段克苏恩或者尤格萨隆的配音，增加一下趣味。
-8168,DBM - Ashen Sound Pack,2022/11/3 11:35,DBM Sound pack
-4474,DBM - BC & Vanilla：燃烧的远征及经典旧世副本模块,2024/3/19 22:02,此为正式服的副本模块，怀旧服请勿下载！包含DBM燃烧的远征及经典旧世副本模块。
-1387,DBM - Battle for Azeroth：争霸艾泽拉斯模块,2024/5/7 14:00,
-17305,[怀旧服]DBM - Cataclysm mods (Requires Deadly Boss Mods),2024/5/7 14:00,Boss Mods for all Cataclysm Raids
-827,DBM - Cataclysm：大地的裂变模块,2024/5/7 14:00,DBM大地的裂变模块
-948,DBM - Challenges：单人挑战事件模块（含爬塔）,2024/5/7 14:00,法师塔、恩佐斯幻象等单人挑战事件的报警模块。
-6701,[怀旧服]DBM - EpicMusicPack,2024/5/17 1:10,Epic Music for DBM Event Sounds
-6874,[经典旧世]DBM - EpicMusicPack,2024/5/17 0:01,Epic Music for DBM Event Sounds
-1503,DBM - EpicMusicPack,2024/5/17 0:00,Epic Music for DBM Event Sounds
-3201,DBM - Event Pack,2024/5/8 1:11,Several media files for DBM encounter Event feature.
-3203,[怀旧服] DBM - Event Pack,2024/5/7 14:04,Several media files for DBM encounter Event feature.
-3202,[经典旧世] DBM - Event Pack,2024/5/7 14:04,Several media files for DBM encounter Event feature.
-2960,[怀旧服] DBM - Heroes of the Storm,2024/5/7 14:01,A collection of Heroes of the Storm countdown sound options for use with Deadly Boss Mods.
-2959,[经典旧世] DBM - Heroes of the Storm,2024/5/7 14:01,A collection of Heroes of the Storm countdown sound options for use with Deadly Boss Mods.
-2958,DBM - Heroes of the Storm,2024/5/7 14:01,A collection of Heroes of the Storm countdown sound options for use with Deadly Boss Mods.
-16136,[怀旧服]DBM - Heroes of the Storm (HotS) Russian Countdown Pack,2023/12/1 18:01,Russian count down voices for DBM from Heroes of the Storm
-16135,[经典旧世]DBM - Heroes of the Storm (HotS) Russian Countdown Pack,2023/12/1 18:01,Russian count down voices for DBM from Heroes of the Storm
-16134,DBM - Heroes of the Storm (HotS) Russian Countdown Pack,2023/12/1 18:01,Russian count down voices for DBM from Heroes of the Storm
-10,DBM - Legion：军团再临模块,2024/5/7 14:00,
-823,DBM - Mists of Pandaria：熊猫人之谜模块,2024/5/16 17:01,DBM的熊猫人之谜模块。
+736,DBM - Archaeology：考古,2024/5/7 14:06,DBM 模块，当你在考古挖掘时，如果挖到了钥匙板，就会随机播放一段克苏恩或者尤格萨隆的配音，增加一下趣味。
+8168,DBM - Ashen Sound Pack,2022/11/3 11:35,DBM 模块，Ashen 语音包。
+4474,DBM - BC & Vanilla：燃烧的远征及经典旧世副本,2024/3/19 22:02,DBM 模块，燃烧的远征及经典旧世团队副本。
+1387,DBM - Battle for Azeroth：争霸艾泽拉斯,2024/5/7 14:00,DBM 模块，争霸艾泽拉斯
+17305,[怀旧服]DBM - Cataclysm：大地的裂变,2024/5/7 14:00,DBM 模块，大地的裂变
+827,DBM - Cataclysm：大地的裂变,2024/5/7 14:00,DBM 模块，大地的裂变
+948,DBM - Challenges：单人挑战事件（含爬塔）,2024/5/7 14:00,DBM 模块，法师塔、恩佐斯幻象等单人挑战事件。
+6701,[怀旧服]DBM - EpicMusicPack,2024/5/17 1:10,DBM 模块，史诗音乐音效包。
+6874,[经典旧世]DBM - EpicMusicPack,2024/5/17 0:01,DBM 模块，史诗音乐音效包。
+1503,DBM - EpicMusicPack,2024/5/17 0:00,DBM 模块，史诗音乐音效包。
+3201,DBM - Event Pack,2024/5/8 1:11,DBM 模块，额外音效包。
+3203,[怀旧服] DBM - Event Pack,2024/5/7 14:04,DBM 模块，额外音效包。
+3202,[经典旧世] DBM - Event Pack,2024/5/7 14:04,DBM 模块，额外音效包。
+2960,[怀旧服] DBM - Heroes of the Storm,2024/5/7 14:01,DBM 模块，风暴英雄倒数语音。
+2959,[经典旧世] DBM - Heroes of the Storm,2024/5/7 14:01,DBM 模块，风暴英雄倒数语音。
+2958,DBM - Heroes of the Storm,2024/5/7 14:01,DBM 模块，风暴英雄倒数语音。
+16136,[怀旧服]DBM - Heroes of the Storm (HotS) Russian Countdown Pack,2023/12/1 18:01,DBM 模块，风暴英雄俄语倒数语音。
+16135,[经典旧世]DBM - Heroes of the Storm (HotS) Russian Countdown Pack,2023/12/1 18:01,DBM 模块，风暴英雄俄语倒数语音。
+16134,DBM - Heroes of the Storm (HotS) Russian Countdown Pack,2023/12/1 18:01,DBM 模块，风暴英雄俄语倒数语音。
+10,DBM - Legion：军团再临模块,2024/5/7 14:00,DBM 模块，军团再临
+823,DBM - Mists of Pandaria：熊猫人之谜模块,2024/5/16 17:01,DBM 模块，潘达利亚之谜
 860,DBM - Old Dungeon Mods：旧五人地城模块,2024/5/14 18:00,这是DBM的五人地城模块，包含了非当前版本的所有旧五人副本，包括时光本。
-1028,DBM - Overwatch Countdown ：守望先锋倒数语音,2024/5/7 14:01,
-3205,[怀旧服] DBM - Overwatch Countdown：守望先峰倒数语音,2024/5/7 14:01,A collection of overwatch countdown sound options for use with Deadly Boss Mods.
-1283,[经典旧世] DBM - Overwatch Countdown：守望先峰倒数语音,2024/5/7 14:01,
-1401,[怀旧服] DBM - PvP Mods：PVP模块,2024/5/7 14:00,
-1117,DBM - PvP Mods：PVP模块,2024/5/7 14:00,包含战场与竞技场的警报和提示。
-3207,[经典旧世] DBM - PvP Mods：PvP模块,2024/5/7 14:00,DBM提供的战场警报和提示。
+1028,DBM - Overwatch Countdown ：守望先锋倒数语音,2024/5/7 14:01,DBM 模块，守望先锋倒数语音。
+3205,[怀旧服] DBM - Overwatch Countdown：守望先峰倒数语音,2024/5/7 14:01,DBM 模块，守望先锋倒数语音。
+1283,[经典旧世] DBM - Overwatch Countdown：守望先峰倒数语音,2024/5/7 14:01,DBM 模块，守望先锋倒数语音。
+1401,[怀旧服] DBM - PvP Mods：PVP模块,2024/5/7 14:00,DBM 模块，战场与竞技场。
+1117,DBM - PvP Mods：PVP模块,2024/5/7 14:00,DBM 模块，战场与竞技场。
+3207,[经典旧世] DBM - PvP Mods：PvP模块,2024/5/7 14:00,DBM 模块，战场与竞技场。
 1350,DBM - RaidLeadTools：团长工具,2022/11/3 11:12,基于DBM的团长工具：内置DKP系统、装备竞拍、自动开组、锁定团队标记等功能。
-17123,"[怀旧服]DBM - Season of Discovery, Vanilla, and TBC (Requires Deadly Boss Mods)",2024/5/12 3:00,Deadly Boss Mods (DBM) - TBC & Vanilla (classic) mods
-17122,"[经典旧世]DBM - Season of Discovery, Vanilla, and TBC (Requires Deadly Boss Mods)",2024/5/12 3:00,Deadly Boss Mods (DBM) - TBC & Vanilla (classic) mods
-17121,"DBM - Season of Discovery, Vanilla, and TBC (Requires Deadly Boss Mods)",2024/5/12 3:00,Deadly Boss Mods (DBM) - TBC & Vanilla (classic) mods
-3200,[怀旧服] DBM - SmoothMcGroove Event,2024/5/7 14:06,Several media files for DBM encounter Event feature.
-3199,[经典旧世] DBM - SmoothMcGroove Event,2024/5/7 14:05,Several media files for DBM encounter Event feature.
-3198,DBM - SmoothMcGroove Event,2024/5/7 14:04,Several media files for DBM encounter Event feature.
-1425,[怀旧服] DBM - SpellTimers：团队冷却监控,2024/5/7 14:04,
-1424,[经典旧世] DBM - SpellTimers：团队冷却监控,2024/5/7 14:04,
-735,DBM - SpellTimers：团队冷却监控,2024/5/7 14:04,可以监视预设的团队法术冷却，使你更好的了解团队状况
-17406,DBM - The Burning Crusade (Requires Deadly Boss Mods),2024/5/12 3:00,DBM 燃烧的远征模块。
-17407,[怀旧服]DBM - The Burning Crusade (Requires Deadly Boss Mods),2024/5/12 3:00,DBM 燃烧的远征模块。
-1166,DBM - Timeless Isle：永恆之島,2024/5/20 16:00,
+17123,"[怀旧服]DBM - Season of Discovery, Vanilla, and TBC (Requires Deadly Boss Mods)",2024/5/12 3:00,DBM 模块，经典旧世、探索赛季和燃烧的远征模块。
+17122,"[经典旧世]DBM - Season of Discovery, Vanilla, and TBC (Requires Deadly Boss Mods)",2024/5/12 3:00,DBM 模块，经典旧世、探索赛季和燃烧的远征模块。
+17121,"DBM - Season of Discovery, Vanilla, and TBC (Requires Deadly Boss Mods)",2024/5/12 3:00,DBM 模块，经典旧世、探索赛季和燃烧的远征模块。
+3200,[怀旧服] DBM - SmoothMcGroove Event,2024/5/7 14:06,DBM 模块，额外音效包。
+3199,[经典旧世] DBM - SmoothMcGroove Event,2024/5/7 14:05,DBM 模块，额外音效包。
+3198,DBM - SmoothMcGroove Event,2024/5/7 14:04,DBM 模块，额外音效包。
+1425,[怀旧服] DBM - SpellTimers：团队冷却监控,2024/5/7 14:04,DBM 模块，以计时条形式监控团队技能。
+1424,[经典旧世] DBM - SpellTimers：团队冷却监控,2024/5/7 14:04,DBM 模块，以计时条形式监控团队技能。
+735,DBM - SpellTimers：团队冷却监控,2024/5/7 14:04,DBM 模块，以计时条形式监控团队技能。
+17406,DBM - The Burning Crusade (Requires Deadly Boss Mods),2024/5/12 3:00,DBM 模块，燃烧的远征
+17407,[怀旧服]DBM - The Burning Crusade (Requires Deadly Boss Mods),2024/5/12 3:00,DBM 模块，燃烧的远征
+1166,DBM - Timeless Isle：永恆之島,2024/5/20 16:00,DBM 模块，永恒之岛
 12521,DBM - UndeadVO - Voice Pack - VEM,2022/11/3 15:55,Undead Voice Over Pack for Deadly Boss Mod.
-3821,[燃烧远征] DBM - VPTaotao Classic&TBC：中文桃桃语音包,2022/6/17 17:03,This is Chinese Female Voice pack
-845,DBM - Warlords of Draenor：德拉诺之王模块,2024/5/7 14:00,DBM德拉诺之王模块
-825,DBM - Wrath of the Lich King：巫妖王之怒模块,2024/5/17 4:00,DBM的巫妖王之怒模块
-9881,[经典旧世]DBM Anti Disable,2022/11/3 13:20,Disable the automatic disabling functionality of DBM
-9029,DBM Count Pack HotS (Korean) 히오스 한국어,2022/11/3 12:31,히오스 영웅들의 카운트 음성팩입니다. DBM이 있어야 작동됩니다.
+3821,[燃烧远征] DBM - VPTaotao Classic&TBC：中文桃桃语音包,2022/6/17 17:03,DBM 模块，中文桃桃语音包。
+845,DBM - Warlords of Draenor：德拉诺之王模块,2024/5/7 14:00,DBM 模块，德拉诺之王
+825,DBM - Wrath of the Lich King：巫妖王之怒模块,2024/5/17 4:00,DBM 模块，巫妖王之怒
+9881,[经典旧世]DBM Anti Disable,2022/11/3 13:20,使 DBM 不会因为版本过旧而自动停用。
+9029,DBM Count Pack HotS (Korean) 히오스 한국어,2022/11/3 12:31,DBM 模块，风暴英雄韩语倒数语音。
 14579,DBM Countdown Pack - Eminem,2023/1/28 1:34,Adds a countdown timer with Eminem's voice to DBM
 4967,DBM Countdown Pack: Mario Kart,2024/3/4 2:00,DBM Countdown sound pack with the Mario Kart race countdown sound effect.
 14752,DBM Event Announcement,2024/5/8 21:03,This addon is a mod to Deadly Boss Mods (DBM) use to announce X seconds before the end of a timer the incoming spell.
@@ -3733,12 +3730,12 @@
 15838,DBM Voice Pack (Ukrainian Female),2024/3/6 3:00,This modification is an addition to DBM that adds Ukrainian dubbing to events.
 9472,[经典旧世]DBM Voice Pack - Dowbones Classic,2022/11/3 12:57,The only WoW Classic DBM Voice Pack you'll ever need.
 11266,DBM Voice Pack - Jingjing(Chinese Female),2022/11/3 14:41,7.3.5 WOW
-4173,[经典旧世]DBM Voice Pack - Lanna NOFX (Korean Female),2023/4/28 23:01,DBM Voice Pack in Korean
-4174,DBM Voice Pack - Lanna NOFX (Korean Female),2023/4/28 23:01,DBM Voice Pack in Korean
-15198,[怀旧服]DBM Voice Pack - Lanna NOFX (Korean Female),2023/4/28 23:01,DBM Voice Pack in Korean
-4175,DBM Voice Pack - Lanna 라나 (Korean Female),2023/4/28 23:01,DBM Voice Pack
-15199,[经典旧世]DBM Voice Pack - Lanna 라나 (Korean Female),2023/4/28 23:01,DBM Voice Pack
-15200,[怀旧服]DBM Voice Pack - Lanna 라나 (Korean Female),2023/4/28 23:01,DBM Voice Pack
+4173,[经典旧世]DBM Voice Pack - Lanna NOFX (Korean Female),2023/4/28 23:01,DBM 模块，韩语语音包。
+4174,DBM Voice Pack - Lanna NOFX (Korean Female),2023/4/28 23:01,DBM 模块，韩语语音包。
+15198,[怀旧服]DBM Voice Pack - Lanna NOFX (Korean Female),2023/4/28 23:01,DBM 模块，韩语语音包。
+4175,DBM Voice Pack - Lanna 라나 (Korean Female),2023/4/28 23:01,DBM 模块，韩语语音包。
+15199,[经典旧世]DBM Voice Pack - Lanna 라나 (Korean Female),2023/4/28 23:01,DBM 模块，韩语语音包。
+15200,[怀旧服]DBM Voice Pack - Lanna 라나 (Korean Female),2023/4/28 23:01,DBM 模块，韩语语音包。
 5799,DBM Voice Pack - Stephen Fry,2022/6/17 13:50,Voice Pack for DBM with the voice of Stephen Fry.
 10499,DBM Voice Pack - XF(Chinese Female),2022/11/3 13:57,Chinese Recorded Female Voice Pack
 12612,DBM Voice Pack Kiwi VEM,2022/11/3 16:00,Kiwi VEM voicepack
@@ -3747,52 +3744,52 @@
 7368,DBM VoicePack (Korean male) Jiny,2022/10/30 14:30,DBM VoicePack (Korean male) Jiny
 7369,[经典旧世]DBM VoicePack (Korean male) Jiny,2022/10/30 14:30,DBM VoicePack (Korean male) Jiny
 7370,[怀旧服]DBM VoicePack (Korean male) Jiny,2022/10/30 14:30,DBM VoicePack (Korean male) Jiny
-4026,[经典旧世]DBM Voicepack (Classic) Dingdiring딩디링 (Korean Female),2023/12/28 5:47,DBM Voicepack for Classic
-4027,[燃烧远征]DBM Voicepack (Classic) Dingdiring딩디링 (Korean Female),2022/6/17 15:54,DBM Voicepack for Classic
+4026,[经典旧世]DBM Voicepack (Classic) Dingdiring딩디링 (Korean Female),2023/12/28 5:47,DBM 模块，韩语语音包。
+4027,[燃烧远征]DBM Voicepack (Classic) Dingdiring딩디링 (Korean Female),2022/6/17 15:54,DBM 模块，韩语语音包。
 5384,DBM Voicepack - AnnieSeal 語音包 (ZH/中文),2024/4/29 20:00,Chinese Mandarin DBM by Twitch streamer AnnieSeal.
 6351,[经典旧世]DBM Voicepack - HazelNuttyGames,2023/6/14 23:00,HazelNuttyGames Voice Pack for DBM
 6350,DBM Voicepack - HazelNuttyGames,2023/6/14 23:00,HazelNuttyGames Voice Pack for DBM
 6352,[燃烧远征]DBM Voicepack - HazelNuttyGames,2022/7/8 11:00,HazelNuttyGames Voice Pack for DBM
-3571,DBM Voicepack - Momoko：中文桃子语音包,2023/12/28 5:52,DBM Voicepack Momoko
+3571,DBM Voicepack - Momoko：中文桃子语音包,2023/12/28 5:52,DBM 模块，中文桃子语音包。
 3818,DBM Voicepack - OldMan：中文男声语音包,2023/12/28 5:46,Wind Brother
-16496,[怀旧服]DBM Voicepack - Puka(푸카음성팩KR),2024/4/8 19:00,DBM-VPPukaKR
-16495,[经典旧世]DBM Voicepack - Puka(푸카음성팩KR),2024/4/8 19:00,DBM-VPPukaKR
-16494,DBM Voicepack - Puka(푸카음성팩KR),2024/4/8 19:00,DBM-VPPukaKR
-6018,[经典旧世]DBM Voicepack - VV (for WoW Classic or TBC)怀旧服语音包,2023/12/28 5:20,A Chinese Female DBM voicepack for classic WoW. DBM怀旧服 和 TBC语音包（VV）中文女声
-6019,[燃烧远征]DBM Voicepack - VV (for WoW Classic or TBC)怀旧服语音包,2022/6/17 16:04,A Chinese Female DBM voicepack for classic WoW. DBM怀旧服 和 TBC语音包（VV）中文女声
-17255,[怀旧服]DBM Voicepack - VV DBM语音包,2024/5/14 20:01,"Chinese Female Voice pack for DBM, VP-VV. DBM语音包（VV）中文女声"
-17254,[经典旧世]DBM Voicepack - VV DBM语音包,2024/5/14 20:01,"Chinese Female Voice pack for DBM, VP-VV. DBM语音包（VV）中文女声"
-16165,[怀旧服]DBM Voicepack - VV DBM语音包(重制版),2024/3/22 20:00,DBM Voicepack - VV DBM语音包(重制版)
-16166,[经典旧世]DBM Voicepack - VV DBM语音包(重制版),2024/3/22 20:00,DBM Voicepack - VV DBM语音包(重制版)
-16164,DBM Voicepack - VV DBM语音包(重制版),2024/3/22 20:00,DBM Voicepack - VV DBM语音包(重制版)
-2743,DBM Voicepack - VV语音包,2024/5/14 20:01,"Chinese Female Voice pack for DBM, VP-VV. DBM语音包（VV）中文女声"
+16496,[怀旧服]DBM Voicepack - Puka(푸카음성팩KR),2024/4/8 19:00,DBM 模块，韩语语音包。
+16495,[经典旧世]DBM Voicepack - Puka(푸카음성팩KR),2024/4/8 19:00,DBM 模块，韩语语音包。
+16494,DBM Voicepack - Puka(푸카음성팩KR),2024/4/8 19:00,DBM 模块，韩语语音包。
+6018,[经典旧世]DBM Voicepack - VV (for WoW Classic or TBC)怀旧服语音包,2023/12/28 5:20,DBM 模块，中文 VV 语音包。
+6019,[燃烧远征]DBM Voicepack - VV (for WoW Classic or TBC)怀旧服语音包,2022/6/17 16:04,DBM 模块，中文 VV 语音包。
+17255,[怀旧服]DBM Voicepack - VV DBM语音包,2024/5/14 20:01,DBM 模块，中文 VV 语音包。
+17254,[经典旧世]DBM Voicepack - VV DBM语音包,2024/5/14 20:01,DBM 模块，中文 VV 语音包。
+16165,[怀旧服]DBM Voicepack - VV DBM语音包(重制版),2024/3/22 20:00,DBM 模块，中文 VV 语音包。
+16166,[经典旧世]DBM Voicepack - VV DBM语音包(重制版),2024/3/22 20:00,DBM 模块，中文 VV 语音包。
+16164,DBM Voicepack - VV DBM语音包(重制版),2024/3/22 20:00,DBM 模块，中文 VV 语音包。
+2743,DBM Voicepack - VV语音包,2024/5/14 20:01,DBM 模块，中文 VV 语音包。
 17275,[怀旧服]DBM Voicepack BattleBrisket,2024/5/9 7:01,Recorded & mastered American English male voice
 17274,[经典旧世]DBM Voicepack BattleBrisket,2024/5/9 7:01,Recorded & mastered American English male voice
 17273,DBM Voicepack BattleBrisket,2024/5/9 7:01,Recorded & mastered American English male voice
 13111,DBM Voicepack Carebear,2022/11/3 16:31,A voice pack to use the carebear countdown for DBM countdowns
-16256,DBM Voicepack DDUMMI (뜌미),2023/11/20 1:12,DBM Voicepack DDUMMI
-16257,[经典旧世]DBM Voicepack DDUMMI (뜌미),2023/11/20 1:12,DBM Voicepack DDUMMI
-16258,[怀旧服]DBM Voicepack DDUMMI (뜌미),2023/11/20 1:12,DBM Voicepack DDUMMI
+16256,DBM Voicepack DDUMMI (뜌미),2023/11/20 1:12,DBM 模块，韩语语音包。
+16257,[经典旧世]DBM Voicepack DDUMMI (뜌미),2023/11/20 1:12,DBM 模块，韩语语音包。
+16258,[怀旧服]DBM Voicepack DDUMMI (뜌미),2023/11/20 1:12,DBM 模块，韩语语音包。
 6020,[经典旧世]DBM Voicepack Demo,2022/11/15 14:00,instructions for those who wanna create their own DBM voicepacks
 4895,DBM Voicepack Demo,2022/11/15 14:00,instructions for those who wanna create their own DBM voicepacks
 6021,[燃烧远征]DBM Voicepack Demo,2022/6/17 16:04,instructions for those who wanna create their own DBM voicepacks
 6307,[经典旧世]DBM Voicepack Dinobrutalityx,2023/12/28 5:31,Voicepack of streamer Dinobrutalityx
 6306,DBM Voicepack Dinobrutalityx,2023/12/28 5:31,Voicepack of streamer Dinobrutalityx
 6308,[怀旧服]DBM Voicepack Dinobrutalityx,2023/1/23 0:00,Voicepack of streamer Dinobrutalityx
-14832,[怀旧服]DBM Voicepack English Female by Milho,2024/5/9 1:04,English female voice pack for DBM
-14831,[经典旧世]DBM Voicepack English Female by Milho,2024/5/9 1:04,English female voice pack for DBM
-14830,DBM Voicepack English Female by Milho,2024/5/9 1:03,English female voice pack for DBM
-14829,[怀旧服]DBM Voicepack English Male by Milho,2024/5/9 1:03,English male voice pack for DBM
-14828,[经典旧世]DBM Voicepack English Male by Milho,2024/5/9 1:03,English male voice pack for DBM
-14827,DBM Voicepack English Male by Milho,2024/5/9 1:03,English male voice pack for DBM
-15510,[怀旧服]DBM Voicepack EnrilDialect 은릴 사투리(Korean),2024/4/8 16:01,A Korean female voicepack based on DBM
-15509,[经典旧世]DBM Voicepack EnrilDialect 은릴 사투리(Korean),2024/4/8 16:00,A Korean female voicepack based on DBM
-15508,DBM Voicepack EnrilDialect 은릴 사투리(Korean),2024/4/8 16:00,A Korean female voicepack based on DBM
-10969,DBM Voicepack Epic Movie Guy,2022/11/3 14:24,"DBM ""Epic"" Over the Top Movie Trailer Guy Voice VEM"
+14832,[怀旧服]DBM Voicepack English Female by Milho,2024/5/9 1:04,DBM 模块，英语女声语音包。
+14831,[经典旧世]DBM Voicepack English Female by Milho,2024/5/9 1:04,DBM 模块，英语女声语音包。
+14830,DBM Voicepack English Female by Milho,2024/5/9 1:03,DBM 模块，英语女声语音包。
+14829,[怀旧服]DBM Voicepack English Male by Milho,2024/5/9 1:03,DBM 模块，英语男声语音包。
+14828,[经典旧世]DBM Voicepack English Male by Milho,2024/5/9 1:03,DBM 模块，英语男声语音包。
+14827,DBM Voicepack English Male by Milho,2024/5/9 1:03,DBM 模块，英语男声语音包。
+15510,[怀旧服]DBM Voicepack EnrilDialect 은릴 사투리(Korean),2024/4/8 16:01,DBM 模块，韩语女声语音包。
+15509,[经典旧世]DBM Voicepack EnrilDialect 은릴 사투리(Korean),2024/4/8 16:00,DBM 模块，韩语女声语音包。
+15508,DBM Voicepack EnrilDialect 은릴 사투리(Korean),2024/4/8 16:00,DBM 模块，韩语女声语音包。
+10969,DBM Voicepack Epic Movie Guy,2022/11/3 14:24,DBM 模块，韩语语音包。
 11748,DBM Voicepack Eye of Crow,2022/11/3 15:09,DBM Voicepack Korean Male
-5151,[怀旧服]DBM Voicepack FallInLove(치유빛),2024/1/20 18:02,DBM Voicepack FallInLove
-5920,[经典旧世]DBM Voicepack FallInLove(치유빛),2024/1/20 18:02,DBM Voicepack FallInLove
-5919,DBM Voicepack FallInLove(치유빛),2024/1/20 18:02,DBM Voicepack FallInLove
+5151,[怀旧服]DBM Voicepack FallInLove(치유빛),2024/1/20 18:02,DBM 模块，韩语语音包。
+5920,[经典旧世]DBM Voicepack FallInLove(치유빛),2024/1/20 18:02,DBM 模块，韩语语音包。
+5919,DBM Voicepack FallInLove(치유빛),2024/1/20 18:02,DBM 模块，韩语语音包。
 5612,[怀旧服]DBM Voicepack French Female by Milho,2024/5/9 1:03,French female voice pack for DBM
 5613,[经典旧世]DBM Voicepack French Female by Milho,2024/5/9 1:03,French female voice pack for DBM
 5385,DBM Voicepack French Female by Milho,2024/5/9 1:03,French female voice pack for DBM
@@ -3801,34 +3798,33 @@
 14824,DBM Voicepack French Male by Milho,2024/5/9 1:03,French male voice pack for DBM
 13142,DBM Voicepack German,2022/11/3 16:32,Deutsches Sprachpaket für DBM
 11740,DBM Voicepack Guozi,2022/11/3 15:09,a voicepack of DBM
-15907,[经典旧世]DBM Voicepack HaPudding(하푸딩),2024/4/5 22:00,DBM Voicepack HaPudding
-15906,DBM Voicepack HaPudding(하푸딩),2024/4/5 22:00,DBM Voicepack HaPudding
-15908,[怀旧服]DBM Voicepack HaPudding(하푸딩),2024/1/17 12:00,DBM Voicepack HaPudding
-12777,DBM Voicepack Hamseoro KR,2022/11/3 16:11,DBM Voicepack Korean Language
-11778,DBM Voicepack Hamseoro Legion (Korean),2022/11/3 15:11,DBM Voice Pack featuring Hamseoro
-13791,[怀旧服]DBM Voicepack Hipham (힙햄) Korean,2023/11/15 22:00,DBM Voicepack Hipham (힙햄) Korean
-13790,[经典旧世]DBM Voicepack Hipham (힙햄) Korean,2023/11/15 22:00,DBM Voicepack Hipham (힙햄) Korean
-4983,DBM Voicepack Hipham (힙햄) Korean,2023/11/15 22:00,DBM Voicepack Hipham (힙햄) Korean
-15440,[怀旧服]DBM Voicepack Kimnaa324 (김나는),2024/5/9 4:00,Voice from Twitch streamer
-15439,[经典旧世]DBM Voicepack Kimnaa324 (김나는),2024/5/9 4:00,Voice from Twitch streamer
-3740,DBM Voicepack Kimnaa324 (김나는),2024/5/9 4:00,Voice from Twitch streamer
-4941,DBM Voicepack Korean Female FallInLove (치유빛),2022/2/5 13:00,DBM Voicepack Korean Female FallInLove
+15907,[经典旧世]DBM Voicepack HaPudding(하푸딩),2024/4/5 22:00,DBM 模块，韩语语音包。
+15906,DBM Voicepack HaPudding(하푸딩),2024/4/5 22:00,DBM 模块，韩语语音包。
+15908,[怀旧服]DBM Voicepack HaPudding(하푸딩),2024/1/17 12:00,DBM 模块，韩语语音包。
+12777,DBM Voicepack Hamseoro KR,2022/11/3 16:11,DBM 模块，韩语语音包。
+11778,DBM Voicepack Hamseoro Legion (Korean),2022/11/3 15:11,DBM 模块，韩语语音包。
+13791,[怀旧服]DBM Voicepack Hipham (힙햄) Korean,2023/11/15 22:00,DBM 模块，韩语语音包。
+13790,[经典旧世]DBM Voicepack Hipham (힙햄) Korean,2023/11/15 22:00,DBM 模块，韩语语音包。
+4983,DBM Voicepack Hipham (힙햄) Korean,2023/11/15 22:00,DBM 模块，韩语语音包。
+15440,[怀旧服]DBM Voicepack Kimnaa324 (김나는),2024/5/9 4:00,DBM 模块，韩语语音包。
+15439,[经典旧世]DBM Voicepack Kimnaa324 (김나는),2024/5/9 4:00,DBM 模块，韩语语音包。
+3740,DBM Voicepack Kimnaa324 (김나는),2024/5/9 4:00,DBM 模块，韩语语音包。
+4941,DBM Voicepack Korean Female FallInLove (치유빛),2022/2/5 13:00,DBM 模块，韩语语音包。
 9951,DBM Voicepack LazyCrazyJoe,2022/11/3 13:25,Addon
-16013,DBM Voicepack Mozo (모조) Korean Male,2023/11/17 1:18,DBM Voicepack Mozo (모조) Korean Male
-16245,[经典旧世]DBM Voicepack Mozo (모조) Korean Male,2023/11/17 1:18,DBM Voicepack Mozo (모조) Korean Male
-16246,[怀旧服]DBM Voicepack Mozo (모조) Korean Male,2023/11/17 1:18,DBM Voicepack Mozo (모조) Korean Male
-5091,[怀旧服]DBM Voicepack Mununyu (무뉴뉴) Korean,2024/5/9 4:01,Recorded Korean female voice
-5682,[经典旧世]DBM Voicepack Mununyu (무뉴뉴) Korean,2024/5/9 4:01,Recorded Korean female voice
-4906,DBM Voicepack Mununyu (무뉴뉴) Korean,2024/5/9 4:01,Recorded Korean female voice
-9547,DBM Voicepack Russian,2022/11/3 13:01,Russian VEM translation
-16512,DBM Voicepack Russian Stepan,2024/1/18 4:00,VP Russian Stepan
-5239,DBM Voicepack Russian Tanya,2024/5/13 18:00,Russian Female Voicepack for DBM
-8950,DBM Voicepack Russian Tatyana Natural voice,2022/11/3 12:26,DBM Voicepack Russian Tatyana Natural voice
-4935,DBM Voicepack Spanish (Spain),2023/6/1 23:00,Spanish (Spain) female voice pack for DBM
+16013,DBM Voicepack Mozo (모조) Korean Male,2023/11/17 1:18,DBM 模块，韩语语音包。
+16245,[经典旧世]DBM Voicepack Mozo (모조) Korean Male,2023/11/17 1:18,DBM 模块，韩语语音包。
+16246,[怀旧服]DBM Voicepack Mozo (모조) Korean Male,2023/11/17 1:18,DBM 模块，韩语语音包。
+5091,[怀旧服]DBM Voicepack Mununyu (무뉴뉴) Korean,2024/5/9 4:01,DBM 模块，韩语语音包。
+5682,[经典旧世]DBM Voicepack Mununyu (무뉴뉴) Korean,2024/5/9 4:01,DBM 模块，韩语语音包。
+4906,DBM Voicepack Mununyu (무뉴뉴) Korean,2024/5/9 4:01,DBM 模块，韩语语音包。
+9547,DBM Voicepack Russian,2022/11/3 13:01,DBM 模块，VEM 俄语语音包。
+16512,DBM Voicepack Russian Stepan,2024/1/18 4:00,DBM 模块，俄语语音包。
+5239,DBM Voicepack Russian Tanya,2024/5/13 18:00,DBM 模块，俄语女声语音包。
+8950,DBM Voicepack Russian Tatyana Natural voice,2022/11/3 12:26,DBM 模块，俄语女声语音包。
+4935,DBM Voicepack Spanish (Spain),2023/6/1 23:00,DBM 模块，西语女声语音包。
 12072,DBM Voicepack TimothyLuke,2022/11/3 15:29,DBM Voice Pack featuring TimothyLuke
-1021,DBM Voicepack VEM：原版英文语音包,2022/11/3 12:10,"TTS语音制作的原版英文语音包，同时也是DBM的语音包制作范本。
-"
-1268,[经典旧世] DBM Voicepack VEM：英文原版语音包,2022/11/3 12:10,
+1021,DBM Voicepack VEM：原版英文语音包,2022/11/3 12:10,DBM模块，TTS语音制作的原版英文语音包，同时也是DBM的语音包制作范本。
+1268,[经典旧世] DBM Voicepack VEM：英文原版语音包,2022/11/3 12:10,DBM模块，TTS语音制作的原版英文语音包，同时也是DBM的语音包制作范本。
 14680,[怀旧服]DBM Voicepack Vulpera Male,2023/10/29 10:00,Vulpera Male Voicepack for DBM
 14679,[经典旧世]DBM Voicepack Vulpera Male,2023/10/29 10:00,Vulpera Male Voicepack for DBM
 14678,DBM Voicepack Vulpera Male,2023/10/29 10:00,Vulpera Male Voicepack for DBM
@@ -3836,28 +3832,28 @@
 14198,[经典旧世]DBM Voicepack Vulpera by WoweePaw,2024/4/4 12:00,Vulpera/Fox-ish Voicepack for Deadly Boss Mods
 14175,DBM Voicepack Vulpera by WoweePaw,2024/4/4 12:00,Vulpera/Fox-ish Voicepack for Deadly Boss Mods
 11273,DBM Voicepack Yun,2022/11/3 14:42,A DBM voicepack from Yun
-5134,[怀旧服]DBM Voicepack YunBam (윤밤) Korean Female,2022/11/18 21:00,DBM Voicepack in Korean Female 
-5590,[经典旧世]DBM Voicepack YunBam (윤밤) Korean Female,2022/11/18 21:00,DBM Voicepack in Korean Female 
-5589,DBM Voicepack YunBam (윤밤) Korean Female,2022/11/18 21:00,DBM Voicepack in Korean Female 
-14766,[怀旧服]DBM Voicepack YunNight (윤밤) Korean Female,2023/12/28 5:02,DBM Voicepack in Korean Female 
-14765,[经典旧世]DBM Voicepack YunNight (윤밤) Korean Female,2023/12/28 5:02,DBM Voicepack in Korean Female 
-14764,DBM Voicepack YunNight (윤밤) Korean Female,2023/12/28 5:02,DBM Voicepack in Korean Female 
-14571,DBM Voicepack 廣東話男音語音包 (ZH/中文),2023/1/27 1:28,DBM Voicepack Cantonese (Male)
-17224,DBM Voicepack(CN)-CLASSIC:Yoda,2024/4/22 1:11,DBM Voicepack(CN) for CLASSIC:Yoda
-17225,[经典旧世]DBM Voicepack(CN)-CLASSIC:Yoda,2024/4/22 1:11,DBM Voicepack(CN) for CLASSIC:Yoda
-17226,[怀旧服]DBM Voicepack(CN)-CLASSIC:Yoda,2024/4/22 1:11,DBM Voicepack(CN) for CLASSIC:Yoda
-16748,[怀旧服]DBM Voicepack(CN):Yoda,2024/4/20 23:01,DBM voicepack(mandarin)
-16747,[经典旧世]DBM Voicepack(CN):Yoda,2024/4/20 22:00,DBM voicepack(mandarin)
-15433,DBM Voicepack(CN):Yoda,2024/4/20 22:00,DBM voicepack(mandarin)
+5134,[怀旧服]DBM Voicepack YunBam (윤밤) Korean Female,2022/11/18 21:00,DBM 模块，韩语女声语音包。
+5590,[经典旧世]DBM Voicepack YunBam (윤밤) Korean Female,2022/11/18 21:00,DBM 模块，韩语女声语音包。
+5589,DBM Voicepack YunBam (윤밤) Korean Female,2022/11/18 21:00,DBM 模块，韩语女声语音包。
+14766,[怀旧服]DBM Voicepack YunNight (윤밤) Korean Female,2023/12/28 5:02,DBM 模块，韩语女声语音包。
+14765,[经典旧世]DBM Voicepack YunNight (윤밤) Korean Female,2023/12/28 5:02,DBM 模块，韩语女声语音包。
+14764,DBM Voicepack YunNight (윤밤) Korean Female,2023/12/28 5:02,DBM 模块，韩语女声语音包。
+14571,DBM Voicepack 廣東話男音語音包 (ZH/中文),2023/1/27 1:28,DBM 模块，广东话男声语音包。
+17224,DBM Voicepack(CN)-CLASSIC:Yoda,2024/4/22 1:11,DBM 模块，中文 Yoda 语音包。
+17225,[经典旧世]DBM Voicepack(CN)-CLASSIC:Yoda,2024/4/22 1:11,DBM 模块，中文 Yoda 语音包。
+17226,[怀旧服]DBM Voicepack(CN)-CLASSIC:Yoda,2024/4/22 1:11,DBM 模块，中文 Yoda 语音包。
+16748,[怀旧服]DBM Voicepack(CN):Yoda,2024/4/20 23:01,DBM 模块，中文 Yoda 语音包。
+16747,[经典旧世]DBM Voicepack(CN):Yoda,2024/4/20 22:00,DBM 模块，中文 Yoda 语音包。
+15433,DBM Voicepack(CN):Yoda,2024/4/20 22:00,DBM 模块，中文 Yoda 语音包。
 10695,DBM Voicepack: DBYams,2022/11/3 14:08,Yams voice pack
-9668,DBM Voicepack: Littprince 小王子语音包 （女声）,2022/11/3 13:08,Chinese Female Voice pack made by Littprince
-5896,[怀旧服]DBM Voicepack: Yike,2023/6/1 17:00,DBM Voicepack Yike
-5895,[经典旧世]DBM Voicepack: Yike,2023/6/1 17:00,DBM Voicepack Yike
-5237,DBM Voicepack: Yike：夏一可语音包,2023/6/1 17:00,三服通用。
-16725,[怀旧服] DBM Voicepack:Taotao,2024/5/8 14:11,DBM Voicepack:Taotao
-6215,[经典旧世]DBM Voicepack:Taotao Classic&TBC,2022/6/17 17:03,This is Chinese Female Voice pack
-6668,[怀旧服]DBM Voicepack:Taotao WLK,2022/9/1 13:12,This is Chinese Female Voice pack
-6667,[经典旧世]DBM Voicepack:Taotao WLK,2022/9/1 13:12,This is Chinese Female Voice pack
+9668,DBM Voicepack: Littprince 小王子语音包 （女声）,2022/11/3 13:08,DBM 模块，中文小王子女声语音包。
+5896,[怀旧服]DBM Voicepack: Yike,2023/6/1 17:00,DBM 模块，中文夏一可语音包。
+5895,[经典旧世]DBM Voicepack: Yike,2023/6/1 17:00,DBM 模块，中文夏一可语音包。
+5237,DBM Voicepack: Yike：夏一可语音包,2023/6/1 17:00,DBM 模块，中文夏一可语音包。
+16725,[怀旧服] DBM Voicepack:Taotao,2024/5/8 14:11,DBM 模块，中文桃桃语音包。
+6215,[经典旧世]DBM Voicepack:Taotao Classic&TBC,2022/6/17 17:03,DBM 模块，中文桃桃语音包。
+6668,[怀旧服]DBM Voicepack:Taotao WLK,2022/9/1 13:12,DBM 模块，中文桃桃语音包。
+6667,[经典旧世]DBM Voicepack:Taotao WLK,2022/9/1 13:12,DBM 模块，中文桃桃语音包。
 8165,DBM-AceAttorneyMusicPack,2022/11/3 11:35,Music from Ace Attorney for DBM Event Sounds
 8166,[经典旧世]DBM-AceAttorneyMusicPack,2022/11/3 11:35,Music from Ace Attorney for DBM Event Sounds
 4760,DBM-Arnold Boss Kill,2022/11/1 4:08,Arnold Says Stuff After A Boss Kill And More
@@ -3878,10 +3874,10 @@
 5235,[怀旧服]DBM-Interrupts,2023/12/28 4:15,A simple addon to track interrupts in Raids or PVP when timing may be critical.
 12101,DBM-LegendaryDummy,2022/11/3 15:30,Checks on pull whether legendary ring matches chosen role
 8516,DBM-LegionFishing,2024/4/27 11:00,Provides legion fishing buff timers to DBM
-14376,[怀旧服]DBM-LogoutTimer,2024/4/27 11:00,This mod adds support for the AFK logout timer to DBM.
-5516,[经典旧世]DBM-LogoutTimer,2024/4/27 11:00,This mod adds support for the AFK logout timer to DBM.
-15108,DBM-LogoutTimer,2023/4/19 3:00,This mod adds support for the AFK logout timer to DBM.
-5517,DBM-LogoutTimer：暂离登出计时器,2024/4/27 11:00,暂离登出计时器
+14376,[怀旧服]DBM-LogoutTimer,2024/4/27 11:00,DBM 模块，暂离登出计时器。
+5516,[经典旧世]DBM-LogoutTimer,2024/4/27 11:00,DBM 模块，暂离登出计时器。
+15108,DBM-LogoutTimer,2023/4/19 3:00,DBM 模块，暂离登出计时器。
+5517,DBM-LogoutTimer：暂离登出计时器,2024/4/27 11:00,DBM 模块，暂离登出计时器。
 11455,DBM-LootReminder,2022/11/3 14:52,Reports current loot setting when executing the pull command.
 13285,DBM-NotScaryAtAll,2022/11/3 16:40,"A ""boss mod"" plugin for low-level mobs, used for testing DBM callbacks"
 8164,DBM-PersonaMusicPack,2022/11/3 11:34,Music from Persona 3-5 for DBM Event Sounds
@@ -3892,14 +3888,14 @@
 4519,[燃烧远征]DBM-VPMianyang,2022/6/17 16:31,WOW DBM Voice Package by Douyu XiaoMianyang
 6135,DBM-VPMianyang,2022/6/17 16:31,WOW DBM Voice Package by Douyu XiaoMianyang
 6136,[经典旧世]DBM-VPMianyang,2022/6/17 16:31,WOW DBM Voice Package by Douyu XiaoMianyang
-8023,DBM-VPMomo,2022/11/3 11:27,"包括正式服以及怀旧服DBM,以及“老公加油”单独语音Including formal clothes and nostalgic clothes DBM, and ""husband refueling"" separate voice"
+8023,DBM-VPMomo,2022/11/3 11:27,DBM 模块，中文 MOMO 语音包。
 6472,DBM-VPNanzai,2022/7/28 15:00,WOW DBM Voice Package by Nan zai
-5040,DBM-VPTaotao,2024/5/8 15:05,DBM Voicepack:Taotao
-5039,[经典旧世]DBM-VPTaotao,2024/5/8 14:11,DBM Voicepack:Taotao
-4982,DBM-VPWeiwei,2022/11/23 15:00,weiwei DBM Chinese soft cute voicepack needs to be uesd with DBM ontology. 微微儿DBM中文软萌语音包，需要搭配DBM本体使用。
-5125,[燃烧远征]DBM-VPXiaobai,2022/6/17 15:32,"DBM语音包，中文，空灵的萝莉音。 作者斗鱼主播罗小白，时刻陪你征战魔兽世界~ DBM voice pack, Female mandarin"
-5963,DBM-VPXiaobai,2022/6/17 15:32,"DBM语音包，中文，空灵的萝莉音。 作者斗鱼主播罗小白，时刻陪你征战魔兽世界~ DBM voice pack, Female mandarin"
-5964,[经典旧世]DBM-VPXiaobai,2022/6/17 15:32,"DBM语音包，中文，空灵的萝莉音。 作者斗鱼主播罗小白，时刻陪你征战魔兽世界~ DBM voice pack, Female mandarin"
+5040,DBM-VPTaotao,2024/5/8 15:05,DBM 模块，中文桃桃语音包。
+5039,[经典旧世]DBM-VPTaotao,2024/5/8 14:11,DBM 模块，中文桃桃语音包。
+4982,DBM-VPWeiwei,2022/11/23 15:00,DBM 模块，中文微微儿语音包。
+5125,[燃烧远征]DBM-VPXiaobai,2022/6/17 15:32,DBM 模块，中文斗鱼主播罗小白语音包。
+5963,DBM-VPXiaobai,2022/6/17 15:32,DBM 模块，中文斗鱼主播罗小白语音包。
+5964,[经典旧世]DBM-VPXiaobai,2022/6/17 15:32,DBM 模块，中文斗鱼主播罗小白语音包。
 4520,[燃烧远征]DBM-VPXiaotu,2022/6/17 16:24,WOW DBM Voice Package by Douyu YunXiaotu
 6112,[经典旧世]DBM-VPXiaotu,2022/6/17 16:24,WOW DBM Voice Package by Douyu YunXiaotu
 12844,DBM-VictorySound,2022/11/3 16:15,DBM-VictorySound
@@ -3909,8 +3905,8 @@
 14450,DBM: RageLeading,2024/4/27 11:04,DBM DarlingRage soundpack
 7755,DBM_Countdown_KaosKatie,2022/11/3 11:06,Kaos Katie's Countdown
 16409,DBMeme,2024/3/16 21:00,Voice pack for DBM
-1399,[怀旧服] DBM：首领警报,2024/5/16 17:01,
-1077,[经典旧世] DBM：首领警报,2024/5/16 17:01,怀旧专用版本，正式服请勿下载！内已包含60级各个副本。
+1399,[怀旧服] DBM：首领警报,2024/5/16 17:01,DBM首领警报主模块，包含当前版本的副本，不包含老团本和五人副本，需要的可以单独下载其他资料片的模块。
+1077,[经典旧世] DBM：首领警报,2024/5/16 17:01,DBM首领警报主模块，包含当前版本的副本，不包含老团本和五人副本，需要的可以单独下载其他资料片的模块。
 9474,[经典旧世]DC-TotalHealerMana,2022/11/3 12:57,Adds a bar to see all healers mana combined
 13830,[怀旧服]DENIED!,2023/3/1 1:21,Blocks quest shared by others in Battlegrounds
 14565,DF Friendly Nameplates,2024/5/8 2:00,"Customize Blizzard friendly nameplates.Works with ""Forbidden"" Nameplates in Raids/Dungeons."
@@ -3921,12 +3917,12 @@
 15187,[怀旧服]DFT Display,2023/10/13 11:00,With this Addon you can use a DFT List together with group loot.
 2299,[怀旧服]DFT Fight Club,2022/11/1 4:23,Loot and attendance tracking addon for DFT Fight Club Spreadsheets
 11032,DHTimers,2022/11/3 14:28,"Cooldowns and Buffs for Demon Hunters, similar to TotemTimers and MonkTimers"
-17440,DHUD for 10.0 and Classic/Cata,2024/5/16 4:12,DHUD for 10.0
-17441,[经典旧世]DHUD for 10.0 and Classic/Cata,2024/5/16 4:12,DHUD for 10.0
-17442,[怀旧服]DHUD for 10.0 and Classic/Cata,2024/5/16 4:12,DHUD for 10.0
-7260,[怀旧服]DHUD for 10.0 and Classic/WotLK,2024/5/15 5:00,DHUD for 10.0
-7259,[经典旧世]DHUD for 10.0 and Classic/WotLK,2024/5/15 5:00,DHUD for 10.0
-7258,DHUD for 10.0 and Classic/WotLK,2024/5/15 5:00,DHUD for 10.0
+17440,DHUD for 10.0 and Classic/Cata,2024/5/16 4:12,DHUD 弧形状态框架，将玩家、宠物、目标等单位的状态以弧形显示到人物两侧。
+17441,[经典旧世]DHUD for 10.0 and Classic/Cata,2024/5/16 4:12,DHUD 弧形状态框架，将玩家、宠物、目标等单位的状态以弧形显示到人物两侧。
+17442,[怀旧服]DHUD for 10.0 and Classic/Cata,2024/5/16 4:12,DHUD 弧形状态框架，将玩家、宠物、目标等单位的状态以弧形显示到人物两侧。
+7260,[怀旧服]DHUD for 10.0 and Classic/WotLK,2024/5/15 5:00,DHUD 弧形状态框架，将玩家、宠物、目标等单位的状态以弧形显示到人物两侧。
+7259,[经典旧世]DHUD for 10.0 and Classic/WotLK,2024/5/15 5:00,DHUD 弧形状态框架，将玩家、宠物、目标等单位的状态以弧形显示到人物两侧。
+7258,DHUD for 10.0 and Classic/WotLK,2024/5/15 5:00,DHUD 弧形状态框架，将玩家、宠物、目标等单位的状态以弧形显示到人物两侧。
 8867,DJBags,2022/11/3 12:20,BagAddon
 12719,DKCrutch,2022/11/3 16:07,Death Knight rune tracker and rotation helper
 12841,DKDiseases,2023/12/28 5:35,Disease Tracker for Death Knights.
@@ -3951,26 +3947,26 @@
 3411,[经典旧世]DRList-1.0 (Diminishing Returns Data),2024/5/18 5:00,Library for crowd control diminishing return data.
 3430,DRList-1.0 (Diminishing Returns Data),2024/5/18 5:00,Library for crowd control diminishing return data.
 12842,DRTracker (Standalone),2022/11/3 16:14,Tracks diminishing returns in arenas
-1525,[经典旧世]DRaidFrames,2024/5/9 17:04,DRaidFrames
-1526,[怀旧服]DRaidFrames,2024/5/9 17:04,DRaidFrames
-1527,DRaidFrames,2024/5/9 17:04,DRaidFrames
+1525,[经典旧世]DRaidFrames,2024/5/9 17:04,DRaidFrames 团队框架。
+1526,[怀旧服]DRaidFrames,2024/5/9 17:04,DRaidFrames 团队框架。
+1527,DRaidFrames,2024/5/9 17:04,DRaidFrames 团队框架。
 9365,[经典旧世]DS_Loot_Priority,2022/11/3 12:50,DS_Loot_Priority
 9607,DTLite,2022/11/3 13:05,Collection of small tweaks check out the description for full details
 8208,DTM's Repair Enforcer,2022/11/3 11:37,DTM's Repair Enforcer
-1990,DTweaks,2022/10/27 9:30,DTweaks is a small modular addon that performs the following modifications to the default UI with very small memory footprint:
-17459,DTweaks-Retail,2024/5/20 11:00,Collection of small tweaks check out the description for full details
-5396,[怀旧服]DTweaksTBC,2022/9/5 20:30,Mods for The Bruning Crusade Classic
-7070,[怀旧服]DTweaksWotLK,2023/12/28 5:45,Mods for The WotLK Classic
-7168,[经典旧世]DTweaksWotLK,2022/10/30 22:40,Mods for The WotLK Classic
-17317,[怀旧服]DTweaks_CATA,2024/5/21 5:00,Mods for Cataclysm Classic
-17316,[经典旧世]DTweaks_CATA,2024/5/2 14:43,Mods for Cataclysm Classic
-9866,[经典旧世]DTweaks_Classic,2024/3/22 23:00,Small Tweaks to default interface.
-17244,[怀旧服]DTweaks_WotLK,2024/4/28 1:00,Mods for The WotLK / Cata Classic
-17111,[怀旧服]DTweaks_classic,2024/4/24 14:00,Mods for The WotLK / Cata Classic
-17112,[经典旧世]DTweaks_classic_era,2024/4/7 4:00,Small Tweaks to default interface.
-1615,[经典旧世]DUnitFrames,2024/5/2 21:00,UnitFrames by D4KiR
-1616,[怀旧服]DUnitFrames,2024/5/2 21:00,UnitFrames by D4KiR
-1617,DUnitFrames,2023/7/12 14:02,UnitFrames by D4KiR
+1990,DTweaks,2022/10/27 9:30,小功能合集插件，自动修装、自动卖垃圾、解锁默认框体移动等等。
+17459,DTweaks-Retail,2024/5/20 11:00,小功能合集插件，自动修装、自动卖垃圾、解锁默认框体移动等等。
+5396,[怀旧服]DTweaksTBC,2022/9/5 20:30,小功能合集插件，自动修装、自动卖垃圾、解锁默认框体移动等等。
+7070,[怀旧服]DTweaksWotLK,2023/12/28 5:45,小功能合集插件，自动修装、自动卖垃圾、解锁默认框体移动等等。
+7168,[经典旧世]DTweaksWotLK,2022/10/30 22:40,小功能合集插件，自动修装、自动卖垃圾、解锁默认框体移动等等。
+17317,[怀旧服]DTweaks_CATA,2024/5/21 5:00,小功能合集插件，自动修装、自动卖垃圾、解锁默认框体移动等等。
+17316,[经典旧世]DTweaks_CATA,2024/5/2 14:43,小功能合集插件，自动修装、自动卖垃圾、解锁默认框体移动等等。
+9866,[经典旧世]DTweaks_Classic,2024/3/22 23:00,小功能合集插件，自动修装、自动卖垃圾、解锁默认框体移动等等。
+17244,[怀旧服]DTweaks_WotLK,2024/4/28 1:00,小功能合集插件，自动修装、自动卖垃圾、解锁默认框体移动等等。
+17111,[怀旧服]DTweaks_classic,2024/4/24 14:00,小功能合集插件，自动修装、自动卖垃圾、解锁默认框体移动等等。
+17112,[经典旧世]DTweaks_classic_era,2024/4/7 4:00,小功能合集插件，自动修装、自动卖垃圾、解锁默认框体移动等等。
+1615,[经典旧世]DUnitFrames,2024/5/2 21:00,基于原生头像的单位头像框架。
+1616,[怀旧服]DUnitFrames,2024/5/2 21:00,基于原生头像的单位头像框架。
+1617,DUnitFrames,2023/7/12 14:02,基于原生头像的单位头像框架。
 6602,DWM Rep Colored Bars,2022/12/5 5:08,"Changes your reputation bar colors from the standard green to colours that match your current faction level.  Neutral = Gray, Friendly = Tan, Honored = Green, Blue = Revered, Purple = Exalted.  Bodyguards, Nat Pagle, Brawlpub, and Half Hill Friends are all"
 6603,[经典旧世]DWM Rep Colored Bars,2022/8/27 23:00,"Changes your reputation bar colors from the standard green to colours that match your current faction level.  Neutral = Gray, Friendly = Tan, Honored = Green, Blue = Revered, Purple = Exalted.  Bodyguards, Nat Pagle, Brawlpub, and Half Hill Friends are all"
 6604,[燃烧远征]DWM Rep Colored Bars,2022/8/27 23:00,"Changes your reputation bar colors from the standard green to colours that match your current faction level.  Neutral = Gray, Friendly = Tan, Honored = Green, Blue = Revered, Purple = Exalted.  Bodyguards, Nat Pagle, Brawlpub, and Half Hill Friends are all"
@@ -4132,29 +4128,29 @@
 3691,[怀旧服]Dead Pool Gambling,2023/4/11 1:18,Bet on the member of your group that you think will die! A dead pool for your party or raid.
 3690,[经典旧世]Dead Pool Gambling,2022/6/17 15:51,Bet on the member of your group that you think will die! A dead pool for your party or raid.
 13685,Deadened,2023/12/28 5:38,"Provides the ability to suppress specific spellcasts like ""Deaden"" from your casting bars."
-2995,Deadly Boss Mods (DBM) - Asmongold Countdown,2024/5/8 11:00,Asmongold Countdown Pack for Deadly Boss Mods
-4270,[怀旧服]Deadly Boss Mods (DBM) - Asmongold Countdown Pack,2024/5/8 11:00,Asmongold Countdown Pack for Deadly Boss Mods
-5749,[经典旧世]Deadly Boss Mods (DBM) - Asmongold Countdown Pack,2024/5/8 11:00,Asmongold Countdown Pack for Deadly Boss Mods
-15378,[怀旧服]Deadly Boss Mods (DBM) - BC & Vanilla mods (Retail),2024/3/19 22:02,Deadly Boss Mods (DBM) - BC & Vanilla mods (Retail)
-7140,Deadly Boss Mods (DBM) - BC & Vanilla mods (Retail),2024/3/19 22:02,Deadly Boss Mods (DBM) - BC & Vanilla mods (Retail)
-16045,[怀旧服]Deadly Boss Mods (DBM) - Dungeons,2024/5/14 18:00,This mod will add support for 5 player dungeons from Classic to Dragonflight. This is DBM equivalent to LittleWigs
-16046,[经典旧世]Deadly Boss Mods (DBM) - Dungeons,2024/5/14 18:00,This mod will add support for 5 player dungeons from Classic to Dragonflight. This is DBM equivalent to LittleWigs
-8654,Deadly Boss Mods (DBM) - Korean Gamers Countdown Pack,2024/1/18 17:01,A collection of countdown voices from several Korean voicepacks
-16739,[经典旧世]Deadly Boss Mods (DBM) - Korean Gamers Countdown Pack,2024/1/18 17:00,A collection of countdown voices from several Korean voicepacks
-16740,[怀旧服]Deadly Boss Mods (DBM) - Korean Gamers Countdown Pack,2024/1/18 17:00,A collection of countdown voices from several Korean voicepacks
-14227,Deadly Boss Mods (DBM) - Shadowlands,2024/5/7 14:00,DBM modules for Shadowlands raids
-15582,[怀旧服]Deadly Boss Mods (DBM) - Ukrainian Countdown Pack,2023/9/10 15:00,This addon adds sound effects of a countdown timer for DBM.
-15581,[经典旧世]Deadly Boss Mods (DBM) - Ukrainian Countdown Pack,2023/9/10 15:00,This addon adds sound effects of a countdown timer for DBM.
-15580,Deadly Boss Mods (DBM) - Ukrainian Countdown Pack,2023/9/10 15:00,This addon adds sound effects of a countdown timer for DBM.
-16632,Deadly Boss Mods (DBM) - Unreal Countdown Pack,2024/1/4 1:11,A mod for DBM with classic Unreal Tournament countdowns
-17073,[怀旧服]Deadly Boss Mods (DBM) - Wrath of the Lich King mods,2024/5/17 4:00,DBM modules for WotLK raids
+2995,Deadly Boss Mods (DBM) - Asmongold Countdown,2024/5/8 11:00,DBM 模块，Asmongold 倒数语音。
+4270,[怀旧服]Deadly Boss Mods (DBM) - Asmongold Countdown Pack,2024/5/8 11:00,DBM 模块，Asmongold 倒数语音。
+5749,[经典旧世]Deadly Boss Mods (DBM) - Asmongold Countdown Pack,2024/5/8 11:00,DBM 模块，Asmongold 倒数语音。
+15378,[怀旧服]Deadly Boss Mods (DBM) - BC & Vanilla mods (Retail),2024/3/19 22:02,DBM 模块，香草时代与燃烧的远征团队副本。
+7140,Deadly Boss Mods (DBM) - BC & Vanilla mods (Retail),2024/3/19 22:02,DBM 模块，香草时代与燃烧的远征团队副本。
+16045,[怀旧服]Deadly Boss Mods (DBM) - Dungeons,2024/5/14 18:00,DBM 模块，五人地城副本。
+16046,[经典旧世]Deadly Boss Mods (DBM) - Dungeons,2024/5/14 18:00,DBM 模块，五人地城副本。
+8654,Deadly Boss Mods (DBM) - Korean Gamers Countdown Pack,2024/1/18 17:01,DBM 模块，韩语倒数语音。
+16739,[经典旧世]Deadly Boss Mods (DBM) - Korean Gamers Countdown Pack,2024/1/18 17:00,DBM 模块，韩语倒数语音。
+16740,[怀旧服]Deadly Boss Mods (DBM) - Korean Gamers Countdown Pack,2024/1/18 17:00,DBM 模块，韩语倒数语音。
+14227,Deadly Boss Mods (DBM) - Shadowlands,2024/5/7 14:00,DBM 模块，暗影国度团队副本。
+15582,[怀旧服]Deadly Boss Mods (DBM) - Ukrainian Countdown Pack,2023/9/10 15:00,DBM 模块，乌克兰语倒数语音。
+15581,[经典旧世]Deadly Boss Mods (DBM) - Ukrainian Countdown Pack,2023/9/10 15:00,DBM 模块，乌克兰语倒数语音。
+15580,Deadly Boss Mods (DBM) - Ukrainian Countdown Pack,2023/9/10 15:00,DBM 模块，乌克兰语倒数语音。
+16632,Deadly Boss Mods (DBM) - Unreal Countdown Pack,2024/1/4 1:11,DBM 模块，虚幻竞技场倒数语音。
+17073,[怀旧服]Deadly Boss Mods (DBM) - Wrath of the Lich King mods,2024/5/17 4:00,DBM 模块，巫妖王之怒团队副本。
 5971,Deadly Boss Mods (DBM) Countdown Bread Edition,2024/5/8 15:00,My guilds raid leaders voice as a countdown
 16428,[经典旧世]Deadly Boss Mods - Flight Timers,2023/12/28 1:30,Flight Timers for Deadly Boss Mods (Classic)
 16439,[怀旧服]Deadly Boss Mods - Flight Timers,2023/12/11 3:00,Flight Timers for Deadly Boss Mods (Classic)
 16440,Deadly Boss Mods - Flight Timers,2023/12/11 3:00,Flight Timers for Deadly Boss Mods (Classic)
 11476,Deadly Boss Mods - LibDataBroker,2022/11/3 14:53,Deadly Boss Mods - LibDataBroker
 13470,Deadly Boss Mods Profiles,2022/11/3 16:52,Ace profiles for Deadly Boss Mods
-846,Deadly Boss Mods （DBM）：首领警报核心,2024/5/16 17:01,DBM首领警报主模块，包含当前版本（暗影之境）的副本，不包含老版本的副本模块，需要的可以单独下载其他资料片的模块。
+846,Deadly Boss Mods （DBM）：首领警报核心,2024/5/16 17:01,DBM首领警报主模块，包含当前版本的团队副本，不包含老团本和五人副本，需要的可以单独下载其他资料片的模块。
 12647,DeadlySlackers,2022/11/3 16:03,A lightweight addon that shows which damage dealers in the raid isn't targeting your target.
 11117,Death Alerts,2022/11/3 14:33,"Receive notifications for party/raid member death, cause of death, and damage taken."
 11059,Death Clock,2022/11/3 14:29,Death Clock displays an estimated kill time for any of over 50 different unit addresses.
