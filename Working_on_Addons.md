@@ -5,17 +5,18 @@
 ## 翻譯
 
 * ~~AltzUI：WOWInterface 反饋~~
-* Bigwigs：主要協力翻譯和資料收集
-   * 資料收集並不針對特定對象，可以查看[本項目的ReadMe](https://github.com/EKE00372/WOWThings/blob/master/README.md)。
+* Bigwigs：
 * ClassicCodex：模仿pfQuest導入了芒果單機的資料
    * 資料來源本身就有錯誤，後來改了抓取方式
 * wMarker：zhTW/zhCN，後來出過作者自己機翻新詞條卻銘謝我，讓我被朋友打了（並沒有）的事
-* [Bigwigs](https://github.com/BigWigsMods/BigWigs/commits?author=EKE00372)主zhTW偶爾zhCN
+* [Bigwigs](https://github.com/BigWigsMods/BigWigs/commits?author=EKE00372)：主zhTW偶爾zhCN
+  * 此外協力資料收集
+    * 資料收集並不針對特定對象，可以查看[本項目的ReadMe](https://github.com/EKE00372/WOWThings/blob/master/README.md)。
 * [LittleWigs](https://github.com/BigWigsMods/LittleWigs/commits?author=EKE00372)：主zhTW偶爾zhCN
 * BFAInvasionTimer
 * LegionInvasionTimer
 * [Questie](https://github.com/AeroScripts/QuestieDev/commits?author=EKE00372)：zhTW/zhCN
-    * 多語系任務資料錄入
+    * 多語系任務資料錄入 (Item/Quest/NPC)，Vanilla 和 TBC 的 zhTW/zhCN，WLK 和 CATA 的全語系
 * [Guidelime](https://github.com/max-ri/Guidelime/commits?author=EKE00372)
     * zhTW/zhCN
     * 關於WORD_LIST系列的詞條：這個東西只在「在遊戲內使用插件的導入工具導入一個中文版的指南文本」時才會發揮作用，也就是說只有在下面四種條件都成立的情況下才會發揮作用。向作者Borick詢問後，他的建議是不必去翻譯這些東西：
@@ -54,6 +55,12 @@
 * Mythic Plus Pull ReEstimated：zhTW/zhCN
 * JiberishUI Icons：zhTW/zhCN
 * Global Search：zhTW/zhCN
+* ProDamageDisplay：zhTW 修正，跟隨官譯
+* ddonLocale：zhTW/zhCN
+* KeystoneLoot
+* CVarsBackup
+* Shotta
+* ReforgeLite
 
 ## 維護
 
@@ -65,7 +72,7 @@
 * ~~EKPlates：名條~~已停更
 * EKMinimap：小地圖與追蹤框
 * MooseLight：自動調整亮度
-* oUF_Ruri:oUF 樣式，含單位框架、團隊框架和名條
+* oUF_Ruri：oUF 樣式，含單位框架、團隊框架和名條
 * ~~oHWell：**經典版**的自動下座騎、自動站立、快速取消變身~~已停更
 * ~~ColorfulMicroMenu~~：微型選單美化，已停更
 
